@@ -30,7 +30,7 @@
 <img align="left" title="PHP" alt="PHP" width="50px" src="/Pics/php.png" />
 <img align="left" title="Linux" alt="Linux" width="50px" src="/Pics/linux.png" />
 <img align="left" title="Bootstrap 4" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" />
+<img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" />
 <img align="left" title="Git" alt="Git" width="50px" src="/Pics/git.png" />
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" />
 
@@ -50,8 +50,12 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Arafat10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Arafat10&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
