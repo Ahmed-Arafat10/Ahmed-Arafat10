@@ -6,6 +6,7 @@
 ## I'm a Junior Software Engineer & a Competitive Programmer !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+<<<<<<< HEAD
 - Studying Computer Science/Business Administration At Business Information System (BIS)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
