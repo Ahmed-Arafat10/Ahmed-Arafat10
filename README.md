@@ -23,16 +23,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="/Pics/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="" />][cssplaylist]
-[<img align="left" alt="C++" width="26px" src="" />][jsplaylist]
-[<img align="left" alt="SQL" width="26px" src="" />][jsplaylist]
-[<img align="left" alt="Java" width="26px" src="" />][jsplaylist]
-[<img align="left" alt="Linux" width="26px" src="" />][jsplaylist]
-[<img align="left" alt="Bootstrap 4" width="26px" src="" />][jsplaylist]
-[<img align="left" alt="Git" width="26px" src="" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="/Pics/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="/Pics/html5.png" />]
+[<img align="left" alt="CSS3" width="26px" src="/Pics/css.png" />]
+[<img align="left" alt="C++" width="26px" src="/Pics/cpp.png" />]
+[<img align="left" alt="SQL" width="26px" src="/Pics/sql.png" />]
+[<img align="left" alt="Java" width="26px" src="/Pics/java.png" />]
+[<img align="left" alt="Linux" width="26px" src="/Pics/linux.png" />]
+[<img align="left" alt="Bootstrap 4" width="26px" src="/Pics/bootstrap.png" />]
+[<img align="left" alt="Git" width="26px" src="/Pics/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="/Pics/github.png" />]
 
 <br />
 <br />
