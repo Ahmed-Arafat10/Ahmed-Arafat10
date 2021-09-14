@@ -14,10 +14,10 @@
 ### Connect with me:
 
 [<img align="left" alt="NULL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook" width="22px" src="/pics/facebook.png" />][facebook]
+[<img align="left" alt="Instagram" width="22px" src="/pics/instagram.png" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="/pics/youtube.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="/pics/linkedin.png" />][linkedin]
 
 <br />
 
@@ -87,6 +87,7 @@
 
 [website]: NULL
 [course]: http://vsCodeHero.com
+[facebook]:https://www.facebook.com/AhmedArafat01
 [youtube]: https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg
 [instagram]: https://www.instagram.com/ahmedarafat__/
 [linkedin]: https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/
