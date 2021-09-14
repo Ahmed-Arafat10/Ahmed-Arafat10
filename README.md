@@ -27,7 +27,7 @@
 <img align="left" alt="HTML5" width="50px" src="/Pics/html-5.png" />
 <img align="left" alt="CSS3" width="50px" src="/Pics/css3.png" />
 <img align="left" alt="C++" width="50px" src="/Pics/cpp.png" />
-<img align="left" alt="SQL" width="50px" src="/Pics/mysql.png" />
+<img align="left" alt="SQL" width="50px" src="/Pics/mysql1.png" />
 <img align="left" alt="Java" width="50px" src="/Pics/java.png" />
 <img align="left" alt="Linux" width="50px" src="/Pics/linux.png" />
 <img align="left" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
