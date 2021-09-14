@@ -14,10 +14,10 @@
 ### Connect with me:
 
 [<img align="left" alt="NULL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Facebook" width="22px" src="/pics/facebook.png" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="/pics/instagram.png" />][instagram]
-[<img align="left" alt="YouTube" width="22px" src="/pics/youtube.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="/pics/linkedin.png" />][linkedin]
+[<img align="left" alt="Facebook" width="22px" src="/Pics/facebook.png" />][facebook]
+[<img align="left" alt="Instagram" width="22px" src="/Pics/instagram.png" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="/Pics/youtube.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="/Pics/linkedin.png" />][linkedin]
 
 <br />
 
