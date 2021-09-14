@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="NULL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="/Pics/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="/Pics/html5.png" />
+<img align="left" alt="HTML5" width="50px" src="/Pics/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="/Pics/css.png" />
 <img align="left" alt="C++" width="26px" src="/Pics/cpp.png" />
 <img align="left" alt="SQL" width="26px" src="/Pics/sql.png" />
@@ -85,9 +85,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: NULL
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg
 [instagram]: https://www.instagram.com/ahmedarafat__/
 [linkedin]: https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/
