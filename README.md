@@ -7,6 +7,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - Studying Computer Science/Business Administration At Business Information System (BIS)
+- ⚡ I’m passionate about software industry
 - Instructor At ICPC FCI-Helwan Community - level 2
 - Trainee At ICPC FCI-Helwan Community - level 1,2
 - C++ Skill Assessment from LinkedIn
@@ -18,11 +19,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" title="Facebook" alt="Facebook" width="35px" src="/Pics/facebook.png" />][facebook]
 [<img align="left" title="Instagram" alt="Instagram" width="35px" src="/Pics/instagram.png" />][instagram]
 [<img align="left" title="YouTube" alt="YouTube" width="40px" src="/Pics/youtube.png" />][youtube]
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="40px" src="/Pics/linkedin.png" />][linkedin]
+[<img align="left" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -60,7 +61,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
