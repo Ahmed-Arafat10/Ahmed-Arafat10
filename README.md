@@ -55,7 +55,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10?exclude_repo=Smartys-Android-App-Csharp)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
