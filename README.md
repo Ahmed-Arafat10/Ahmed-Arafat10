@@ -23,7 +23,7 @@
 [<img align="left" title="Instagram" alt="Instagram" width="35px" src="/Pics/instagram.png" />][instagram]
 [<img align="left" title="YouTube" alt="YouTube" width="40px" src="/Pics/youtube.png" />][youtube]
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="40px" src="/Pics/linkedin.png" />][linkedin]
-[<img align="left" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" title="My Portfolio Website" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
