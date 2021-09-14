@@ -6,7 +6,6 @@
 ## I'm a Junior Software Engineer & Competitive Programmer !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-<<<<<<< HEAD
 - Studying Computer Science/Business Administration At Business Information System (BIS)
 - Instructor At ICPC FCI-Helwan Community - level 2
 - Trainee At ICPC FCI-Helwan Community - level 1,2
