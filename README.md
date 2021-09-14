@@ -21,8 +21,6 @@
 
 <br />
 
----
-
 ### Languages and Tools:
 <img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
 <img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
