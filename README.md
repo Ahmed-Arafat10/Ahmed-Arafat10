@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NULL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Facebook" width="22px" src="/Pics/facebook.png" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="/Pics/instagram.png" />][instagram]
-[<img align="left" alt="YouTube" width="22px" src="/Pics/youtube.png" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="/Pics/linkedin.png" />][linkedin]
+[<img align="left" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Facebook" width="35px" src="/Pics/facebook.png" />][facebook]
+[<img align="left" alt="Instagram" width="35px" src="/Pics/instagram.png" />][instagram]
+[<img align="left" alt="YouTube" width="35px" src="/Pics/youtube.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="35px" src="/Pics/linkedin.png" />][linkedin]
 
 <br />
 
@@ -27,7 +27,7 @@
 <img align="left" alt="HTML5" width="50px" src="/Pics/html5.png" />
 <img align="left" alt="CSS3" width="50px" src="/Pics/css.png" />
 <img align="left" alt="C++" width="50px" src="/Pics/cpp.png" />
-<img align="left" alt="SQL" width="50px" src="/Pics/sql.png" />
+<img align="left" alt="SQL" width="50px" src="/Pics/mysql.png" />
 <img align="left" alt="Java" width="50px" src="/Pics/java.png" />
 <img align="left" alt="Linux" width="50px" src="/Pics/linux.png" />
 <img align="left" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
