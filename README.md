@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="/Pics/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50px" src="/Pics/html5.png" />
 <img align="left" alt="CSS3" width="50px" src="/Pics/css.png" />
 <img align="left" alt="C++" width="50px" src="/Pics/cpp.png" />
