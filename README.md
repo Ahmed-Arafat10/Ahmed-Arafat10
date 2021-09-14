@@ -20,7 +20,9 @@
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="40px" src="/Pics/linkedin.png" />][linkedin]
 
 <br />
+
 ---
+
 ### Languages and Tools:
 <img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
 <img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
