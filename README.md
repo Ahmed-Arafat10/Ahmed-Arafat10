@@ -6,6 +6,7 @@
 ## I'm a Junior Software Engineer & a Competitive Programmer !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+- Business Information System (BIS) Student
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
