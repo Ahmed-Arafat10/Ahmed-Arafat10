@@ -1,15 +1,15 @@
 ### Hi there, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Junior Software Engineer & a Competitive Programmer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
+<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me:
 
@@ -46,6 +46,17 @@
 - [Session #2 - STLs (Non-Linear Data Structure)](https://youtu.be/E3N6p3cV5YU)
 - [Session #3 - Number Theory](https://youtu.be/JaGdOl4cn_0)
 <!-- YOUTUBE:END -->
+
+---
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?Ahmed-Arafat10=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 ---
 
