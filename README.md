@@ -41,6 +41,9 @@
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" />
 
 <br />
+<br />
+<br />
+<br />
 
 ### 📺 Latest YouTube Videos
 
@@ -64,12 +67,7 @@
 
 
 [website]: NULL
-[course]: http://vsCodeHero.com
 [facebook]:https://www.facebook.com/AhmedArafat01
 [youtube]: https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg
 [instagram]: https://www.instagram.com/ahmedarafat__/
 [linkedin]: https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
