@@ -41,6 +41,7 @@
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" />
 
 <br />
+
 ---
 
 ### 📺 Latest YouTube Videos
