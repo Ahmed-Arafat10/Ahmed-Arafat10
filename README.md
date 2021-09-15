@@ -61,8 +61,10 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue) -->
 
 ---
+
 <img align="left" title="You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want" alt="Ging" width="100%" src="/Pics/ging.gif" />
 
+<p>You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want</p>
 
 
 [website]: NULL
