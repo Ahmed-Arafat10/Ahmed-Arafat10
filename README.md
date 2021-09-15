@@ -62,7 +62,7 @@
 
 ---
 
-<img align="left" title="You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want" alt="Ging" width="100%" src="/Pics/ging.gif" />
+<img align="left" title="Ging Freecss" alt="Ging" width="100%" src="/Pics/ging.gif" />
 
 <p><i>You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want | Ging</i></p>
 
