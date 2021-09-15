@@ -27,6 +27,7 @@
 <br />
 
 ### Languages and Tools:
+
 <img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
 <img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
 <img align="left" title="SQL" alt="SQL" width="50px" src="/Pics/mysql1.png" />
@@ -40,8 +41,7 @@
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" />
 
 <br />
-
-<br />
+---
 
 ### 📺 Latest YouTube Videos
 
