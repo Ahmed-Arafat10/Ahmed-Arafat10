@@ -18,7 +18,6 @@
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me:
-
 [<img align="left" title="Facebook" alt="Facebook" width="35px" src="/Pics/facebook.png" />][facebook]
 [<img align="left" title="Instagram" alt="Instagram" width="35px" src="/Pics/instagram.png" />][instagram]
 [<img align="left" title="YouTube" alt="YouTube" width="40px" src="/Pics/youtube.png" />][youtube]
@@ -62,7 +61,9 @@
 ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
 
 ---
-
+<img align="left" title="Ging" alt="Ging" width="100px" src="/Pics/ging.gif" />
+You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want
+---
 [website]: NULL
 [course]: http://vsCodeHero.com
 [facebook]:https://www.facebook.com/AhmedArafat01
