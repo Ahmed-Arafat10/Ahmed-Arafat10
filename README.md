@@ -58,7 +58,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Arafat10&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue) -->
+ ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
 
 ---
 
