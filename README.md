@@ -6,7 +6,7 @@
 ## I'm a Junior Software Engineer & a Competitive Programmer !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- Studying Computer Science/Business Administration At Business Information System (BIS)
+- Studying Computer Science/Business Administration At Business Information System (BIS), Helwan University
 - ⚡ I’m passionate about software development
 - 💻 Self-taught Programmer
 - Instructor At ICPC FCI-Helwan Community - level 2
