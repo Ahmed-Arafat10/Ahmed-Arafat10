@@ -7,10 +7,10 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - Studying Computer Science/Business Administration At Business Information System (BIS), Helwan University
-- ⚡ I’m passionate about software development
+- ⚡ I’m passionate about Software Industry
 - 💻 Self-taught Programmer
-- Instructor At ICPC FCI-Helwan Community - level 2
-- Trainee At ICPC FCI-Helwan Community - level 1,2
+- Former Instructor At ICPC FCI-Helwan Community - level 2
+- Former Trainee At ICPC FCI-Helwan Community - level 1,2
 - C++ Skill Assessment from LinkedIn
 - I haven't arrived yet .. But closer than I were yesterday <3
 - 🌱 I’m currently learning everything 🤣
