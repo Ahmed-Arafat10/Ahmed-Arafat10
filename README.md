@@ -1,4 +1,4 @@
-### Hi there, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
+### Hello There, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -9,10 +9,10 @@
 - Studying Computer Science/Business Administration At Business Information System (BIS), Helwan University
 - ⚡ I’m passionate about Software Industry
 - 💻 Self-taught Programmer
-- Former Instructor At ICPC FCI-Helwan Community - level 2
-- Former Trainee At ICPC FCI-Helwan Community - level 1,2
+- Former Instructor At ICPC FCI-Helwan Community - Level 2
+- Former Trainee At ICPC FCI-Helwan Community - Level 1&2
 - C++ Skill Assessment from LinkedIn
-- I haven't arrived yet .. But closer than I were yesterday <3
+- I haven't arrived yet .. But closer than I were yesterday ❤
 - 🌱 I’m currently learning everything 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
