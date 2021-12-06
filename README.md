@@ -44,7 +44,7 @@
 <img align="left" title="Jenkins" alt="Jenkins" width="50px" src="/Pics/Jenkins.png" />
 <img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" /> 
 
-<br /><br />
+<br />-<br />
 
 ### Latest YouTube Videos:
 
