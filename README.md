@@ -41,12 +41,11 @@
 <br />
 <br />
 <br />
-<br />
-<img align="left" title="Docker" alt="Docker" width="50px" src="/Pics/Docker.png" />
 <img align="left" title="Jenkins" alt="Jenkins" width="50px" src="/Pics/Jenkins.png" />
 <img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" /> 
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" /> 
 <img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" /> 
+<img align="left" title="Docker" alt="Docker" width="50px" src="/Pics/Docker.png" />
 <br />
 <br />
 <br />
