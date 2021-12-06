@@ -28,7 +28,6 @@
 <br />
 
 ### Languages and Tools:
-
 <img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
 <img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
 <img align="left" title="SQL" alt="SQL" width="50px" src="/Pics/mysql1.png" />
@@ -37,13 +36,12 @@
 <img align="left" title="PHP" alt="PHP" width="50px" src="/Pics/php.png" />
 <img align="left" title="Linux" alt="Linux" width="50px" src="/Pics/linux.png" />
 <img align="left" title="Bootstrap 4" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
-<img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" />
+<!-- <img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" /> -->
 <img align="left" title="Git" alt="Git" width="50px" src="/Pics/git.png" />
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" />
 <img align="left" title="Docker" alt="Docker" width="50px" src="/Pics/Docker.png" />
-<img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" />
 <img align="left" title="Jenkins" alt="Jenkins" width="50px" src="/Pics/Jenkins.png" />
-
+<img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" />
 <br />
 
 <br />
