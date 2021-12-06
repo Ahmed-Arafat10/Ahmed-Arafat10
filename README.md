@@ -1,5 +1,6 @@
 ### Hello There, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com) -->
+ ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
@@ -60,7 +61,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Arafat10&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
- ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
 
 ---
 
