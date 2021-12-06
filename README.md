@@ -46,10 +46,7 @@
 
 <br /><br />
 
-
 ### Latest YouTube Videos:
-
-
 
 <!-- YOUTUBE:START -->
 - [Session #1 - STLs (Linear Data Structure)](https://youtu.be/q_FXkla98Vo)
