@@ -13,7 +13,7 @@
 - Former Instructor At ICPC FCI-Helwan Community - Level 2
 - Former Trainee At ICPC FCI-Helwan Community - Level 1&2
 - C++ Skill Assessment from LinkedIn
-- I haven't arrived yet .. But closer than I were yesterday ❤
+- I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
 - I’m currently learning everything 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
