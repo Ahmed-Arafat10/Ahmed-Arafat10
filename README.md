@@ -69,7 +69,7 @@
 
 <img align="left" title="Ging Freecss" alt="Ging" width="100%" src="/Pics/ging.gif" />
 
->**_Enjoy the little detours to the fullest .. Because that's where you'll find the things more important than what you want | Ging Freecss_**
+>**_Enjoy The Little Detours To The Fullest .. Because That's Where You'll Find The Things More Important Than What You Want | Ging Freecss_**
 
 
 [website]: NULL
