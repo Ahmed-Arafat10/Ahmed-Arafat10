@@ -1,3 +1,4 @@
+<video src='https://youtu.be/lbx5dHrcqx0' width=180/>
 ### Hello There, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com) -->
  ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
