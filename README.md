@@ -73,10 +73,8 @@
 
 
 >**_*All Documentations Are Created By Me, So If It Is Going To Help You,
-Please Don't Use It Unless You Mark The Repo As Star Or Fork It .. Happy Learning ʕ•́ᴥ•̀ʔ_**
+Please Mark The Repo As Star Or Fork It .. Happy Learning ʕ•́ᴥ•̀ʔ_**
 
-
-<video controls src='https://youtu.be/lbx5dHrcqx0' width=180/>
 
 [website]: NULL
 [facebook]:https://www.facebook.com/AhmedArafat01
