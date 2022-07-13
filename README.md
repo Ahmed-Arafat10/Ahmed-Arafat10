@@ -45,17 +45,21 @@
 <img align="left" title="SQL" alt="SQL" width="50px" src="/Pics/mysql1.png" />
 <img align="left" title="HTML5" alt="HTML5" width="50px" src="/Pics/html-5.png" />
 <img align="left" title="CSS3" alt="CSS3" width="50px" src="/Pics/css3.png" />
-<img align="left" title="PHP" alt="PHP" width="50px" src="/Pics/php.png" />
-<img align="left" title="Linux" alt="Linux" width="50px" src="/Pics/linux.png" />
+<img align="left" title="JavaScript" alt="JavaScript" width="50px" src="/Pics/js.png" />
+<img align="left" title="jQuery" alt="jQuery" width="50px" src="/Pics/jquery.png" />
+<img align="left" title="Ajax" alt="Ajax" width="50px" src="/Pics/ajax.png" />
+<img align="left" title="PHP8" alt="PHP" width="50px" src="/Pics/php.png" />
+<img align="left" title="XAMPP" alt="XAMPP" width="50px" src="/Pics/xampp.png" />
 <img align="left" title="Bootstrap 4" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
+<br />
+<br />
+<br />
 <img align="left" title="Git" alt="Git" width="50px" src="/Pics/git.png" />
-<br />
-<br />
-<br />
+<img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" /> 
 <img align="left" title="Jenkins" alt="Jenkins" width="50px" src="/Pics/Jenkins.png" />
 <img align="left" title="Docker" alt="Docker" width="50px" src="/Pics/Docker.png" />
-<img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" /> 
 <img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" /> 
+<img align="left" title="Linux" alt="Linux" width="50px" src="/Pics/linux.png" />
 <img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" /> 
 <br />
 <br />
