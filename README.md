@@ -17,7 +17,7 @@
 - Contestant At ECPC
 - Former Instructor At ICPC FCI-Helwan Community - Level 2
 - Former Trainee At ICPC FCI-Helwan Community - Level 1&2
-- Web Developer Member At Google Developer Student Club
+- Web Developer Member At Google Developer Student Club (GDSC)
 - Web Development Delegate At ThreeDos
 - HR Member At ThreeDos
 - IT Member At Microsoft Student Partner
