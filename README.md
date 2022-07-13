@@ -20,7 +20,7 @@
 - Web Developer Member At Google Developer Student Club (GDSC)
 - Web Development Delegate At ThreeDos
 - HR Member At ThreeDos
-- IT Member At Microsoft Student Partner
+- IT Member At Microsoft Student Partner (MSP)
 - Participant At SCCI
 - C++ Skill Assessment from LinkedIn
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
