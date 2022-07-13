@@ -7,14 +7,24 @@
 ## I'm a Junior Software Engineer & Competitive Programmer !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- Studying Computer Science/Business Administration At Business Information System (BIS), Helwan University
-- I’m Passionate About Software Industry
-- 💻 Self-taught Programmer
+- Studied Computer Science/Business Administration At Business Information System (BIS), Helwan University
+- I’m Passionate About Software Development & Business
+- Self-taught Programmer
+- Software Engineer Intern At Orange Digital Center
+- Data Structure Marathon Trainee At ODC
+- Back-End Hackathon Trainee Intern At ODC
+- DevOps Engineer Intern At Sprints
+- Contestant At ECPC
 - Former Instructor At ICPC FCI-Helwan Community - Level 2
 - Former Trainee At ICPC FCI-Helwan Community - Level 1&2
+- Web Developer Member At Google Developer Student Club
+- Web Development Delegate At ThreeDos
+- HR Member At ThreeDos
+- IT Member At Microsoft Student Partner
+- Participant At SCCI
 - C++ Skill Assessment from LinkedIn
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
-- I’m currently learning everything 😂
+- I’m Currently Learning Everything 😂
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
