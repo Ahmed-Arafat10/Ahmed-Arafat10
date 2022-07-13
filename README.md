@@ -42,13 +42,13 @@
 ### Languages and Tools:
 <img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
 <img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
+<img align="left" title="PHP8" alt="PHP" width="50px" src="/Pics/php.png" />
 <img align="left" title="SQL" alt="SQL" width="50px" src="/Pics/mysql1.png" />
 <img align="left" title="HTML5" alt="HTML5" width="50px" src="/Pics/html-5.png" />
 <img align="left" title="CSS3" alt="CSS3" width="50px" src="/Pics/css3.png" />
 <img align="left" title="JavaScript" alt="JavaScript" width="50px" src="/Pics/js.png" />
 <img align="left" title="jQuery" alt="jQuery" width="50px" src="/Pics/jquery.png" />
 <img align="left" title="Ajax" alt="Ajax" width="50px" src="/Pics/ajax.png" />
-<img align="left" title="PHP8" alt="PHP" width="50px" src="/Pics/php.png" />
 <img align="left" title="XAMPP" alt="XAMPP" width="50px" src="/Pics/xampp.png" />
 <img align="left" title="Bootstrap 4" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
 <br />
