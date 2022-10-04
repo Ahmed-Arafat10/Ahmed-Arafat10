@@ -8,6 +8,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - Studied Computer Science/Business Administration At Business Information System (BIS), Helwan University
+- Information Technology Teaching Assistant At CIC - Canadian International College
 - I’m Passionate About Software Development & Business
 - Intrestred About Competitive Programming | Web Development | DevOps 
 - Self-taught Programmer
