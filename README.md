@@ -13,9 +13,9 @@
 - Interested About Competitive Programming | Web Development | DevOps 
 - Self-taught Programmer
 - Software Engineer Intern At Orange Digital Center
-- Data Structure Marathon Trainee At ODC
-- Back-End Hackathon Trainee Intern At ODC
 - DevOps Engineer Intern At Sprints
+- Data Structure Marathon Participant At ODC
+- Back-End Hackathon Participant At ODC
 - Contestant At ECPC
 - Former Instructor At ICPC FCI-Helwan Community - Level 2
 - Former Trainee At ICPC FCI-Helwan Community - Level 1&2
