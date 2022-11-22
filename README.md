@@ -10,7 +10,7 @@
 - Studied Computer Science/Business Administration At Business Information System (BIS), Helwan University
 - Information Technology Teaching Assistant At CIC - Canadian International College
 - I’m Passionate About Software Development & Business
-- Intrestred About Competitive Programming | Web Development | DevOps 
+- Interested About Competitive Programming | Web Development | DevOps 
 - Self-taught Programmer
 - Software Engineer Intern At Orange Digital Center
 - Data Structure Marathon Trainee At ODC
