@@ -1,6 +1,11 @@
 ### Hello There, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com) -->
- ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
+<!--  ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue) -->
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
+
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
@@ -24,22 +29,31 @@
 - HR Member At ThreeDos
 - IT Member At Microsoft Student Partner (MSP)
 - Participant At SCCI
-- C++ Skill Assessment from LinkedIn
+- C++ Skill Assessment from LinkedIn 
+- 💬 Ask me about **Data Structure & Algorithms, C++ & Back-End Development**
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
 - I’m Currently Learning Everything 😂
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
-### Connect with me:
-[<img align="left" title="Facebook" alt="Facebook" width="35px" src="/Pics/facebook.png" />][facebook]
-[<img align="left" title="Instagram" alt="Instagram" width="35px" src="/Pics/instagram.png" />][instagram]
-[<img align="left" title="YouTube" alt="YouTube" width="40px" src="/Pics/youtube.png" />][youtube]
-[<img align="left" title="LinkedIn" alt="LinkedIn" width="40px" src="/Pics/linkedin.png" />][linkedin]
-[<img align="left" title="My Portfolio Website" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ahmedarafat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmedarafat01" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ahmedarafat__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmedarafat__/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/ucqxuesclarmwojebubpvnig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucqxuesclarmwojebubpvnig" height="30" width="40" /></a>
+</p>
 
 <br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="/Pics/AWS.png" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<img align="left" title="jQuery" alt="jQuery" width="40" height="40" src="/Pics/jquery.png" />
+<img align="left" title="Ajax" alt="Ajax" width="60" height="40" src="/Pics/ajax.png" />
+<img align="left" title="XAMPP" alt="XAMPP" width="40" height="40" src="/Pics/xampp.png" />
 
+</p>
+<!-- 
 ### Languages and Tools:
 <img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
 <img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
@@ -65,8 +79,8 @@
 <br />
 <br />
 <br />
-
-### Latest YouTube Videos:
+ -->
+ <h3 align="left">Latest YouTube Videos:</h3>
 
 <!-- YOUTUBE:START -->
 - [Session #1 - STLs (Linear Data Structure)](https://youtu.be/q_FXkla98Vo)
@@ -79,6 +93,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Arafat10&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-arafat10&" alt="ahmed-arafat10" /></p>
 
 
 ---
