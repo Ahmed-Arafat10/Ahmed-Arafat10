@@ -3,7 +3,9 @@
 <!--  ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue) -->
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" /> </p>
-
+<!--  <a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://aktive.tk/egypt/ahmed-arafat10?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+	</a> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
