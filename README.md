@@ -7,15 +7,12 @@
 		<img src="https://aktive.tk/egypt/ahmed-arafat10?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 	</a> -->
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
+
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 <!-- ## I'm A Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant ! -->
-
-
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-arafat10&theme=github	)](https://github.com/ahmed-arafat10/github-readme-activity-graph)
 
 
 <p align="center">
@@ -115,12 +112,15 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Ahmed Arafat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-arafat10&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react" alt="7oSkaaa" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react" alt="Ahmed Arafat" height="230px"/>
 <br/>
 </p>
 
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
+
+[![Arafat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-arafat10&theme=github	)](https://github.com/ahmed-arafat10/github-readme-activity-graph)
 
 ---
 
