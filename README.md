@@ -6,12 +6,16 @@
 <!--  <a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://aktive.tk/egypt/ahmed-arafat10?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 	</a> -->
+	
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm A Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant !
+<!-- ## I'm A Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant ! -->
+<p align="center">
+  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Back-End+Developer;Competitive+Programmer;Teaching+Assistant"></a>
+	</p>
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - Studied Computer Science/Business Administration At Business Information System (BIS), Helwan University
