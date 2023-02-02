@@ -20,25 +20,25 @@
 	</p>
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- Studied Computer Science/Business Administration At Business Information System (BIS), Helwan University
-- Information Technology Teaching Assistant At CIC - Canadian International College
+- Studied Computer Science/Business Administration At Business Information System (`BIS`), Helwan University
+- Information Technology Teaching Assistant At `CIC` - Canadian International College
 - I’m Passionate About Software Development & Business Analysis
 - Interested About Competitive Programming | Web Development | DevOps 
 - Self-taught Programmer
-- Software Engineer Intern At Orange Digital Center
-- DevOps Engineer Intern At Sprints
-- Data Structure Marathon Participant At ODC
-- Back-End Hackathon Participant At ODC
-- Contestant At ECPC
-- Former Instructor At ICPC FCI-Helwan Community - Level 2
-- Former Trainee At ICPC FCI-Helwan Community - Level 1&2
-- Web Developer Member At Google Developer Student Club (GDSC)
-- Web Development Delegate At ThreeDos
-- HR Member At ThreeDos
-- IT Member At Microsoft Student Partner (MSP)
-- Participant At SCCI
-- C++ Skill Assessment from LinkedIn 
-- 💬 Ask me about **Data Structure & Algorithms, C++ & Back-End Development**
+- Software Engineer Intern At `Orange Digital Center`
+- DevOps Engineer Intern At `Sprints`
+- Data Structure Marathon Participant At `ODC`
+- Back-End Hackathon Participant At `ODC`
+- Contestant At `ECPC`
+- Former Instructor At `ICPC FCI-Helwan` Community - Level 2
+- Former Trainee At `ICPC FCI-Helwan` Community - Level 1&2
+- Web Developer Member At `Google Developer Student Club (GDSC)`
+- Web Development Delegate At `ThreeDos`
+- HR Member At `ThreeDos`
+- IT Member At `Microsoft Student Partner (MSP)`
+- Participant At `SCCI`
+- C++ Skill Assessment from `LinkedIn` 
+- 💬 Ask me about **`Data Structure & Algorithms`, `C++` & `Back-End Development`**
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
 - I’m Currently Learning Everything 😂
 <!-- - 👯 I’m looking to collaborate with other content creators -->
