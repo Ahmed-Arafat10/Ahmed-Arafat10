@@ -2,10 +2,12 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <!--  ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue) -->
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" /> </p>
-<!--  <a href = "https://commits.top/egypt.html" target="_blank">
+ <p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
+	 <a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://aktive.tk/egypt/ahmed-arafat10?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-	</a> -->
+	</a>
+</p>
 	
 
 
