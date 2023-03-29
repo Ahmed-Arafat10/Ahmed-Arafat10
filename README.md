@@ -27,7 +27,7 @@
 - I’m Passionate About Software Development & Business Analysis
 - Interested About `Software Engineering` | `Competitive Programming` | `Back-End Development`
 - Self-taught Programmer
-- Software Engineer Intern At `Orange Digital Center`
+- Software Engineer Intern At `Orange Digital Center (ODC)`
 - DevOps Engineer Intern At `Sprints`
 - Data Structure Marathon Participant At `ODC`
 - Back-End Hackathon Participant At `ODC`
