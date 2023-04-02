@@ -5,7 +5,7 @@
  <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
 	 <a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://aktive.tk/egypt/ahmed-arafat10?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+<!-- 		<img src="https://aktive.tk/egypt/ahmed-arafat10?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/>  -->
 	</a>
 </p>
 	
