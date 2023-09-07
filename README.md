@@ -159,7 +159,9 @@ target="blank"><img align="center"
 </a> 
 </p>
 
-[![Arafat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-arafat10&theme=github    )](https://github.com/ahmed-arafat10/github-readme-activity-graph)
+<hr>
+
+[![Arafat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-arafat10&theme=github)](https://github.com/ahmed-arafat10/github-readme-activity-graph)
 
 <hr>
 
