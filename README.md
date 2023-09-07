@@ -165,9 +165,8 @@ target="blank"><img align="center"
 
 <hr>
 
-<img align="left" title="Ging Freecss" alt="Ging" src="Pics/ging.gif" />
-
 <p align = "center">
+    <img title="Ging Freecss" alt="Ging" src="Pics/ging.gif" />
 	<a href="[https://github.com/piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Enjoy+The+Little+Detours+To+The+Fullest+..+Because+That's+Where+You'll+Find+The+Things+More+Important+Than+What+You+Want"></a>
 </p>
 
