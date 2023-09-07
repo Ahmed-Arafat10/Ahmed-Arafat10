@@ -9,16 +9,7 @@
 
 
 <p align="center">
-  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=
-Founder+Of+K-Hub;
-Software+Engineer;
-Laravel+Back-End+Developer;
-ACM+ECPC+Contestant;
-Competitive+Programmer;
-Teaching+Assistant+@CIC;
-CS+Instructor;
-Freelancer;
-"></a>
+  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Founder+Of+K-Hub;Software+Engineer;Laravel+Back-End+Developer;ACM+ECPC+Contestant;Competitive+Programmer;Teaching+Assistant+@CIC;CS+Instructor;Freelancer;"></a>
 </p>
 
 - Studied Computer Science/Business Administration At _Business Information System_ (`BIS`), _Helwan_ University
