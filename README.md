@@ -1,6 +1,6 @@
 ## Hello There, I'm _Ahmed Mohamed Yousry_ aka _Ahmed Arafat_
 
-[![Website](https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip)](https://www.ahmedarafat.vip/Home)
+[//]: # ([![Website]&#40;https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip&#41;]&#40;https://www.ahmedarafat.vip/Home&#41;)
 
  <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
