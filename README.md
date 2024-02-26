@@ -1,37 +1,54 @@
 ## Hello There, I'm _Ahmed Mohamed Yousry_ aka _Ahmed Arafat_
 
 [//]: # ([![Website]&#40;https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip&#41;]&#40;https://www.ahmedarafat.vip/Home&#41;)
+[//]: # (<a href = "https://commits.top/egypt.html" target="_blank"></a>)
 
  <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
-	 <a href = "https://commits.top/egypt.html" target="_blank"></a>
+	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20Views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
 </p>
 
 
 <p align="center">
-  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Founder+Of+K-Hub;Software+Engineer;Laravel+Back-End+Developer;ACM+ECPC+Contestant;Competitive+Programmer;Teaching+Assistant+@CIC;CS+Instructor;Freelancer;"></a>
+  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;ACM+ECPC+Contestant;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;"></a>
 </p>
 
-- Studied Computer Science/Business Administration At _Business Information System_ (`BIS`), _Helwan_ University
-- Information Technology Teaching Assistant At `CIC` - _Canadian International College_
-- I’m Passionate About Software Industry
-- Interested About `Software Engineering` | `Competitive Programming` | `Back-End Development`
-- Self-taught Programmer
-- Software Engineer Intern At `Orange Digital Center (ODC)`
-- DevOps Engineer Intern At `Sprints`
+### Education
+- Bachelor Of Business Information System (BIS), Faculty Of Commerce And Business Admin. At Helwan University Located In El-Zamalek. (Field Of Study: Computer Science/Business Administration)
+
+### Work Experience
+- Software Engineer At `Grand Tech` - Egypt Branch
+- Coach & Instructor At `Coach Academy` - Part Time
+- Teaching Assistant At `ERU` (_Egyptian Russian University_)
+- Teaching Assistant At `CIC` (_Canadian International College_)
+
+### Extracurricular Experience
 - Data Structure Marathon Participant At `Orange Digital Center (ODC)`
 - Back-End Hackathon Participant At `Orange Digital Center (ODC)`
+
+#### Internships
+- Software Engineer Intern At `Orange Digital Center (ODC)`
+- DevOps Engineer Intern At `Sprints`
+
+#### Competitive Programming
 - Contestant At `ACM ECPC`
 - Instructor At `ICPC FCI-Helwan` Community - Level 2
 - Trainee At `ICPC FCI-Helwan` Community - Level 1&2 (`Top #3`)
+
+#### Student Activities
 - Web Developer Member At `Google Developer Student Club (GDSC)`
 - Web Development Delegate At `ThreeDos`
 - HR Member At `ThreeDos`
 - IT Member At `Microsoft Student Partner (MSP)`
 - Participant At `SCCI`
+
+<hr>
+
+- I’m Passionate About Software Industry
+- Interested About `Software Engineering` | `Competitive Programming` | `Back-End Development`
+- Self-taught Programmer
 - 💬 Ask me about **`C++`,`Data Structure & Algorithms`, `PHP`, `Laravel`, `MySQL` & `Back-End Development`**
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
-- I’m Currently Learning Everything 😂
+- I’m Currently Focusing On Increasing My Knowledge Horizontally
 
 <h3>Connect with me:</h3>
 <p>
