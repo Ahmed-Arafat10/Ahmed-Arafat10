@@ -1,4 +1,6 @@
-## Hello There, I'm _Ahmed Mohamed Yousry_ aka _Ahmed Arafat_
+## Hello There 👋🏻
+## I'm _Ahmed Mohamed Yousry_
+#### AKA _Ahmed Arafat_
 
 [//]: # ([![Website]&#40;https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip&#41;]&#40;https://www.ahmedarafat.vip/Home&#41;)
 [//]: # (<a href = "https://commits.top/egypt.html" target="_blank"></a>)
