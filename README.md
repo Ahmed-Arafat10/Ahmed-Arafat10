@@ -19,7 +19,7 @@
 
 ### Work Experience
 - Software Engineer At `Grand Tech` - Egypt Branch
-- Coach & Instructor At `Coach Academy` - Part Time
+- Coach & Instructor At `Coach Academy`
 - Teaching Assistant At `ERU` (_Egyptian Russian University_)
 - Teaching Assistant At `CIC` (_Canadian International College_)
 
