@@ -50,7 +50,7 @@
 - Self-taught Programmer
 - 💬 Ask me about **`C++`,`Data Structure & Algorithms`, `PHP`, `Laravel`, `MySQL` & `Back-End Development`**
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
-- I’m Currently Focusing On Increasing My Knowledge Horizontally
+- Currently Focusing On Increasing My Knowledge Vertically
 
 <h3>Connect with me:</h3>
 <p>
