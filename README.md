@@ -1,21 +1,10 @@
-<div align="left">
- <a href="https://leetcode.com/AhmedArafat">
-  <picture>
-   <source srcset="https://leetcard.jacoblin.cool/AhmedArafat?theme=light&border=0"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-   <source srcset="https://leetcard.jacoblin.cool/AhmedArafat?theme=dark&border=0"
-    media="(prefers-color-scheme: dark)" />
-   <img src="https://leetcard.jacoblin.cool/AhmedArafat?theme=light&border=0" height=140
-    alt="Arafat's LeetCode status" />
-  </picture>
- </a>
-</div>
 
 ## Hello There 👋🏻
 ## I'm _Ahmed Mohamed Yousry_
 #### AKA _Ahmed Arafat_
-[//]: # ([![Website]&#40;https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip&#41;]&#40;https://www.ahmedarafat.vip/Home&#41;)
-[//]: # (<a href = "https://commits.top/egypt.html" target="_blank"></a>)
+[![Website](https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip)](https://www.ahmedarafat.vip/Home)
+
+[![Top Committers In Egypt](https://user-badge.committers.top/egypt_private/Ahmed-Arafat10.svg)](https://user-badge.committers.top/egypt_private/Ahmed-Arafat10)
 
  <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20Views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
@@ -229,3 +218,9 @@ Please Mark The Repo As Star Or Fork It .. Happy Learning ʕ•́ᴥ•̀ʔ_**
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700" alt="Dino" /><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300" alt="This page is" />
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Problem-Solving Stats
+<p float="left">
+<img height="280em" src="https://leetcard.jacoblin.cool/AhmedArafat?ext=heatmap" />
+<img height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhmedArafat01&theme=dark" />
+</p>
