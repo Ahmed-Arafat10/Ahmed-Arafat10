@@ -1,4 +1,3 @@
-
 <div align="left">
  <a href="https://leetcode.com/AhmedArafat">
   <picture>
@@ -12,100 +11,208 @@
  </a>
 </div>
 
-### Hello There, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com) -->
- ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+## Hello There 👋🏻
+## I'm _Ahmed Mohamed Yousry_
+#### AKA _Ahmed Arafat_
+[//]: # ([![Website]&#40;https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip&#41;]&#40;https://www.ahmedarafat.vip/Home&#41;)
+[//]: # (<a href = "https://commits.top/egypt.html" target="_blank"></a>)
 
-## I'm A Software Engineer !
+ <p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=ahmed-arafat10&label=Profile%20Views&color=0e75b6&style=flat" alt="ahmed-arafat10" />
+</p>
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- Studied Computer Science/Business Administration At Business Information System (BIS), Helwan University
-- I’m Passionate About Software Development & Business
-- Intrestred About Competitive Programming | Web Development | DevOps 
+
+<p align="center">
+  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;ACM+ECPC+Contestant;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;"></a>
+</p>
+
+### Education
+- Bachelor Of Business Information System (BIS), Faculty Of Commerce And Business Admin. At Helwan University Located In El-Zamalek. (Field Of Study: Computer Science/Business Administration)
+
+### Work Experience
+- Software Engineer At `Grand Tech` - Egypt Branch
+- Coach & Instructor At `Coach Academy`
+- Teaching Assistant At `ERU` (_Egyptian Russian University_)
+- Teaching Assistant At `CIC` (_Canadian International College_)
+
+### Extracurricular Experience
+- Data Structure Marathon Participant At `Orange Digital Center (ODC)`
+- Back-End Hackathon Participant At `Orange Digital Center (ODC)`
+
+#### Internships
+- Software Engineer Intern At `Orange Digital Center (ODC)`
+- DevOps Engineer Intern At `Sprints`
+
+#### Competitive Programming
+- Contestant At `ACM ECPC`
+- Instructor At `ICPC FCI-Helwan` Community - Level 2
+- Trainee At `ICPC FCI-Helwan` Community - Level 1&2 (`Top #3`)
+
+#### Student Activities
+- Web Developer Member At `Google Developer Student Club (GDSC)`
+- Web Development Delegate At `ThreeDos`
+- HR Member At `ThreeDos`
+- IT Member At `Microsoft Student Partner (MSP)`
+- Participant At `SCCI`
+
+<hr>
+
+- I’m Passionate About Software Industry
+- Interested About `Software Engineering` | `Competitive Programming` | `Back-End Development`
 - Self-taught Programmer
-- Software Engineer Intern At Orange Digital Center
-- Data Structure Marathon Trainee At ODC
-- Back-End Hackathon Trainee Intern At ODC
-- DevOps Engineer Intern At Sprints
-- Contestant At ECPC
-- Former Instructor At ICPC FCI-Helwan Community - Level 2
-- Former Trainee At ICPC FCI-Helwan Community - Level 1&2
-- Web Developer Member At Google Developer Student Club (GDSC)
-- Web Development Delegate At ThreeDos
-- HR Member At ThreeDos
-- IT Member At Microsoft Student Partner (MSP)
-- Participant At SCCI
-- C++ Skill Assessment from LinkedIn
+- 💬 Ask me about **`C++`,`Data Structure & Algorithms`, `PHP`, `Laravel`, `MySQL` & `Back-End Development`**
 - I Haven't Arrived Yet .. But Closer Than I Were Yesterday ❤
-- I’m Currently Learning Everything 😂
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+- Currently Focusing On Increasing My Knowledge Vertically
 
-### Connect with me:
-[<img align="left" title="Facebook" alt="Facebook" width="35px" src="/Pics/facebook.png" />][facebook]
-[<img align="left" title="Instagram" alt="Instagram" width="35px" src="/Pics/instagram.png" />][instagram]
-[<img align="left" title="YouTube" alt="YouTube" width="40px" src="/Pics/youtube.png" />][youtube]
-[<img align="left" title="LinkedIn" alt="LinkedIn" width="40px" src="/Pics/linkedin.png" />][linkedin]
-[<img align="left" title="My Portfolio Website" alt="NULL" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/" 
+target="blank"><img align="center" 
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+                    alt="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/" 
+                    height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmedarafat01" 
+target="blank"><img align="center" 
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+                    alt="https://www.facebook.com/ahmedarafat01" 
+                    height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmedarafat__/"
+target="blank"><img align="center" 
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+                    alt="https://www.instagram.com/ahmedarafat__/" 
+                    height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg" 
+target="blank"><img align="center" 
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+                    alt="https://youtube.com/channel/ucqxuesclarmwojebubpvnig" 
+                    height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
-<img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
-<img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
-<img align="left" title="PHP8" alt="PHP" width="50px" src="/Pics/php.png" />
-<img align="left" title="SQL" alt="SQL" width="50px" src="/Pics/mysql1.png" />
-<img align="left" title="HTML5" alt="HTML5" width="50px" src="/Pics/html-5.png" />
-<img align="left" title="CSS3" alt="CSS3" width="50px" src="/Pics/css3.png" />
-<img align="left" title="JavaScript" alt="JavaScript" width="50px" src="/Pics/js.png" />
-<img align="left" title="jQuery" alt="jQuery" width="50px" src="/Pics/jquery.png" />
-<img align="left" title="Ajax" alt="Ajax" width="50px" src="/Pics/ajax.png" />
-<img align="left" title="XAMPP" alt="XAMPP" width="50px" src="/Pics/xampp.png" />
-<img align="left" title="Bootstrap 4" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
-<br />
-<br />
-<br />
-<img align="left" title="Git" alt="Git" width="50px" src="/Pics/git.png" />
-<img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" /> 
-<img align="left" title="Jenkins" alt="Jenkins" width="50px" src="/Pics/Jenkins.png" />
-<img align="left" title="Docker" alt="Docker" width="50px" src="/Pics/Docker.png" />
-<img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" /> 
-<img align="left" title="Linux" alt="Linux" width="50px" src="/Pics/linux.png" />
-<img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" /> 
-<br />
-<br />
-<br />
 
-### Latest YouTube Videos:
+<h3>CS Core Skills</h3>
+<p>
+<img align="left" title="C++" alt="C++" width="50px" src="Pics/cpp.webp" />
+<img align="left" title="DSA" alt="DSA" width="50px" src="Pics/DSA2.webp" />
+<img align="left" title="Solved 700+ Problem On OJs" alt="Solved 700+ Problem On OJs" width="50px" src="Pics/icpc.webp" />
+<img align="left" title="OOP" alt="OOP" width="50px" src="Pics/OOP2.webp" />
+<img align="left" title="Java" alt="Java" width="50px" src="Pics/java.webp" />
+</p>
 
-<!-- YOUTUBE:START -->
+<br><br>
+
+<h3>Back-End</h3>
+<p>
+<img align="left" title="PHP8" alt="PHP8" width="50px" src="Pics/php.webp" />
+<img align="left" title="laravel" alt="laravel" width="50px" src="Pics/laravel.webp" />
+<img align="left" title="MySQL" alt="MySQL" width="60px" src="Pics/mysql.webp" />
+<img align="left" title="SQLServer" alt="SQLServer" width="60px" height="50px" src="Pics/sqlserver.webp" />
+<img align="left" title="Apache" alt="Apache" width="60px" height="60px" src="Pics/apache.webp" />
+<img align="left" title="APIs" alt="APIs" width="50px" src="Pics/api.webp" />
+<img align="left" title="PostMan" alt="PostMan" width="50px" src="Pics/postman.webp" />
+<img align="left" title="Swagger" alt="Swagger" width="50px" src="Pics/swagger.webp" />
+</p>
+
+<br><br>
+
+<h3>Front-End</h3>
+<p>
+<img align="left" title="HTML5" alt="HTML5" width="50px" src="Pics/html5.webp" />
+<img align="left" title="CSS3" alt="CSS3" width="50px" src="Pics/css3.webp" />
+<img align="left" title="JavaScript" alt="JavaScript" width="40px" src="Pics/js.webp" />
+<img align="left" title="JQuery" alt="JQuery" width="60px" src="Pics/jquery.webp" />
+<img align="left" title="Bootstrap 5" alt="Bootstrap 5" width="50px" src="Pics/bootstrap.webp" />
+<img align="left" title="AJAX" alt="AJAX" width="50px" src="Pics/ajax.webp" />
+<img align="left" title="Adobe XD" alt="Adobe XD" width="50px" src="Pics/adobexd.webp" />
+</p>
+
+<br><br>
+
+<h3>DevOps</h3>
+<p>
+<img align="left" title="Linux" alt="Linux" width="50px" src="Pics/linux.webp" />
+<img align="left" title="Git VC" alt="Git VC" width="50px" src="Pics/git.webp" />
+<img align="left" title="GitHub" alt="GitHub" width="50px" src="Pics/github.webp" />
+<img align="left" title="AWS" alt="AWS" width="50px" src="Pics/AWS.webp" />
+<img align="left" title="Docker" alt="Docker" width="50px" src="Pics/Docker.webp" />
+<img align="left" title="Jenkins" alt="Jenkins" width="50px" height="55px" src="Pics/Jenkins.webp" />
+</p>
+
+<br><br>
+
+<h3>Tools</h3>
+<p>
+<img align="left" title="CLion" alt="CLion" width="50px" src="Pics/tools/clion.webp" />
+<img align="left" title="PHPStorm" alt="PHPStorm" width="50px" src="Pics/tools/phpstorm.webp" />
+<img align="left" title="Intellij" alt="Intellij" width="50px" src="Pics/tools/intellij.webp" />
+<img align="left" title="VS Code" alt="VS Code" width="50px" src="Pics/tools/vscode.webp" />
+<img align="left" title="CodeBlocks" alt="CodeBlocks" width="50px" src="Pics/tools/codeblocks.webp" />
+<img align="left" title="Microsoft Teams" alt="Microsoft Teams" width="50px" src="Pics/tools/teams.webp" />
+<img align="left" title="Discord" alt="Discord" width="50px" src="Pics/tools/discord.webp" />
+<img align="left" title="Slack" alt="Slack" width="50px" src="Pics/tools/slack.webp" />
+</p>
+
+<br><br>
+
+<h3 align="left">Latest YouTube Videos:</h3>
+
 - [Session #1 - STLs (Linear Data Structure)](https://youtu.be/q_FXkla98Vo)
 - [Session #2 - STLs (Non-Linear Data Structure)](https://youtu.be/E3N6p3cV5YU)
 - [Session #3 - Number Theory](https://youtu.be/JaGdOl4cn_0)
-<!-- YOUTUBE:END -->
 
----
+<hr>
 
+<p align="center">
+<img align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-arafat10&" 
+    alt="ahmed-arafat10" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Arafat10&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-<img align="left" title="Ging Freecss" alt="Ging" width="100%" src="/Pics/ging.gif" />
-
->**_Enjoy The Little Detours To The Fullest .. Because That's Where You'll Find The Things More Important Than What You Want | Ging Freecss_**
+<hr>
 
 
->**_*All Documentations Are Created By Me, So If It Is Going To Help You,
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Ahmed Arafat's Github Stats" 
+             src="https://github-readme-stats.vercel.app/api?username=ahmed-arafat10&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" 
+             height="230px"/></a>
+	   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=15&layout=compact&hide=ASP.NET&theme=react" 
+            alt="Ahmed Arafat" 
+            height="230px"/>
+<br/>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10"
+     alt="ahmed-arafat10" />
+</a> 
+</p>
+
+<hr>
+
+[![Arafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-arafat10&theme=github)](https://github.com/ahmed-arafat10/github-readme-activity-graph)
+
+<hr>
+
+<p align = "center">
+    <img title="Ging Freecss" alt="Ging" src="Pics/ging.gif" />
+	<a href="[https://github.com/piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Enjoy+The+Little+Detours+To+The+Fullest+..+Because+That's+Where+You'll+Find+The+Things+More+Important+Than+What+You+Want"></a>
+</p>
+
+<hr>
+
+> **_*All Documentations Are Created By Me, So If It Is Going To Help You,
 Please Mark The Repo As Star Or Fork It .. Happy Learning ʕ•́ᴥ•̀ʔ_**
 
+<hr>
 
-[website]: NULL
+<p align = "center">
+	<img src = "https://github.com/Ahmed-Arafat10/Ahmed-Arafat10/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+[website]:https://www.ahmedarafat.vip/Home
 [facebook]:https://www.facebook.com/AhmedArafat01
 [youtube]: https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg
 [instagram]: https://www.instagram.com/ahmedarafat__/
