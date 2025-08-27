@@ -18,7 +18,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;1x ECPC Finalist;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;1x+ECPC+Finalist;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;">
 </p>
 
 ---
