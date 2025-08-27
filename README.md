@@ -285,11 +285,21 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
+## 🧮 Problem-Solving Stats
+<p float="left">
+  <img height="280" src="https://leetcard.jacoblin.cool/AhmedArafat?ext=heatmap"/>
+  <img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhmedArafat01&theme=dark"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-arafat10&theme=tokyonight"/>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-arafat10&theme=tokyonight"/>)
+
+[//]: # (</p>)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-arafat10&show_icons=true&count_private=true&theme=react&layout=compact" height="180"/>
@@ -302,7 +312,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ## 💡 Quotes
 <p align="center">
-  <img src="Pics/ging.gif" alt="Ging Freecss" height="150"/>
+  <img src="Pics/ging.gif" alt="Ging Freecss" width="100%" height="100%"/>
 </p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Enjoy+The+Little+Detours+To+The+Fullest+..+Because+That's+Where+You'll+Find+The+Things+More+Important+Than+What+You+Want" alt="Quote"/>
@@ -324,12 +334,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ## 🕹️ Fun Zone
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700" alt="Dino"/>
 <br/>
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300" alt="This page is"/>
+</div>
 
----
-
-## 🧮 Problem-Solving Stats
-<p float="left">
-  <img height="280" src="https://leetcard.jacoblin.cool/AhmedArafat?ext=heatmap"/>
-  <img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhmedArafat01&theme=dark"/>
-</p>
