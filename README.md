@@ -18,7 +18,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;ACM+ECPC+Contestant;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;1x ECPC Finalist;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;">
 </p>
 
 ---
@@ -38,18 +38,6 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 <details open>
-<summary>🎓 Education</summary>
-<br/>
-
-- 🎓 **MSc (In-progress)**, Postgraduate Business Information Systems (PBIS), Helwan University — CGPA 3.7, 1st Rank
-- 🎓 **Bachelor of Business Information Systems (BIS)**, Helwan University — CGPA 3.94, Excellent with Honors, 1st Rank in Batch
-- 🏅 Graduation Project **K-Hub** (A+, Best Project in College)
-
-</details>
-
----
-
-<details open>
 <summary>💼 Work Experience</summary>
 <br/>
 
@@ -60,6 +48,18 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 - **Coach & Instructor @ Coach Academy**
 - **Teaching Assistant @ CIC (Canadian International College)**
 - **Teaching Assistant @ ERU (Egyptian Russian University)**
+
+</details>
+
+---
+
+<details open>
+<summary>🎓 Education</summary>
+<br/>
+
+- 🎓 **MSc (In-progress)**, Postgraduate Business Information Systems (PBIS), Helwan University — CGPA 3.7, 1st Rank
+- 🎓 **Bachelor of Business Information Systems (BIS)**, Helwan University — CGPA 3.94, Excellent with Honors, 1st Rank in Batch
+- 🏅 Graduation Project **K-Hub** (A+, Best Project in College)
 
 </details>
 
@@ -90,6 +90,18 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 <details open>
+<summary>🌱 Internships</summary>
+<br/>
+
+- Software Engineer Intern @`Orange Digital Center (ODC)`
+- DevOps Engineer Intern @`Sprints`
+- Virtual Summer Intern @`CIB Bank`
+
+</details>
+
+---
+
+<details open>
 <summary>🏆 Competitive Programming</summary>
 <br/>
 
@@ -111,28 +123,6 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 - HR Member At `ThreeDos`
 - IT Member At `Microsoft Student Partner (MSP)`
 - Participant At `SCCI`
-
-</details>
-
----
-
-<details open>
-<summary>🌱 Internships</summary>
-<br/>
-
-- Software Engineer Intern @`Orange Digital Center (ODC)`
-- DevOps Engineer Intern @`Sprints`
-- Virtual Summer Intern @`CIB Bank`
-
-</details>
-
----
-
-<details open>
-<summary>🧩 Interpersonal Skills</summary>
-<br/>
-
-Problem-Solving · Self-Learning · Commitment · Discipline · Leadership · Patience · Teamwork · Presentation Skills · Risk-Taking · Hardworking
 
 </details>
 
