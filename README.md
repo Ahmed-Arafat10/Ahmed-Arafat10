@@ -25,7 +25,7 @@
 
 <details open>
 <summary>🎯 Summary</summary>
-
+<br/>
 A **Software Engineer & Teaching Assistant** with 2+ years of work experience on projects in Egypt, Saudi Arabia, USA & Australia, plus 4 years of learning experience during college.
 
 - Passionate about **Software Development & Competitive Programming**
@@ -36,9 +36,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>🎓 Education</summary>
-
+<br/>
 - 🎓 **MSc (In-progress)**, Postgraduate Business Information Systems (PBIS), Helwan University — CGPA 3.7, 1st Rank
 - 🎓 **Bachelor of Business Information Systems (BIS)**, Helwan University — CGPA 3.94, Excellent with Honors, 1st Rank in Batch
 - 🏅 Graduation Project **K-Hub** (A+, Best Project in College)
@@ -47,9 +47,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>💼 Work Experience</summary>
-
+<br/>
 - **Mid-Level Laravel Back-End Developer @ Next Economics & Technology Inc.**
 - **Junior Laravel Back-End Developer @ Grand Technology Inc.**
 - **Teaching Assistant @ BIS, Helwan University**
@@ -62,9 +62,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>🚀 Projects</summary>
-
+<br/>
 - **TSCMS** – Tech Schools Control Management System
 - **SPI** – Strategic Planning & Intelligence System
 - **FilmSA** – Saudi Filming Platform
@@ -85,9 +85,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>🏆 Competitive Programming</summary>
-
+<br/>
 
 - Contestant At `ACM ECPC`
 - Instructor At `ICPC FCI-Helwan` Community - Level 2
@@ -97,9 +97,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>👨‍💻 Student Activities</summary>
-
+<br/>
 - Web Developer Member At `Google Developer Student Club (GDSC)`
 - Web Development Delegate At `ThreeDos`
 - HR Member At `ThreeDos`
@@ -110,9 +110,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>🌱 Internships</summary>
-
+<br/>
 - Software Engineer Intern @`Orange Digital Center (ODC)`
 - DevOps Engineer Intern @`Sprints`
 - Virtual Summer Intern @`CIB Bank`
@@ -121,18 +121,18 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 
 ---
 
-<details>
+<details open>
 <summary>🧩 Interpersonal Skills</summary>
-
+<br/>
 Problem-Solving · Self-Learning · Commitment · Discipline · Leadership · Patience · Teamwork · Presentation Skills · Risk-Taking · Hardworking
 
 </details>
 
 ---
 
-<details>
+<details open>
 <summary>🎶 Interests</summary>
-
+<br/>
 📖 Reading Books · 🏋 Exercising · 🎮 Gaming · 🎹 Piano & Flute · 🎬 Anime & Movies
 
 </details>
