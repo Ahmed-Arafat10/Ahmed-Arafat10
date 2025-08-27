@@ -1,10 +1,12 @@
 <!-- Profile Header GIF -->
 <p align="center">
-  <img WIDTH="100" src="Pics/Programming.gif" alt="ahmed-arafat10" />
+  <img width="100" src="Pics/Programming.gif" alt="ahmed-arafat10" />
 </p>
 
-<h1 align="center">👋 Hello, I'm <span style="color:#36BCF7">Ahmed Mohamed Yousry</span></h1>
-<h3 align="center">aka <i>Ahmed Arafat</i></h3>
+<div align="center">
+<h1>👋 Hello, I'm <span style="color:#36BCF7">Ahmed Mohamed Yousry</span></h1>
+<h3>aka <i>Ahmed Arafat</i></h3>
+</div>
 <h4 align="center">Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant | Freelancer</h4>
 
 
@@ -27,7 +29,8 @@
 <summary>🎯 Summary</summary>
 <br/>
 
-A **Software Engineer & Teaching Assistant** with 2+ years of work experience on projects in Egypt, Saudi Arabia, USA & Australia, plus 4 years of learning experience during college.
+A **Software Engineer & Teaching Assistant** with 2+ years of work experience on projects in Egypt, Saudi Arabia, USA &
+Australia, plus 4 years of learning experience during college.
 
 - Passionate about **Software Development & Competitive Programming**
 - Polymath, always evolving, committed, patient & disciplined team player
@@ -58,7 +61,8 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 <br/>
 
 - 🎓 **MSc (In-progress)**, Postgraduate Business Information Systems (PBIS), Helwan University — CGPA 3.7, 1st Rank
-- 🎓 **Bachelor of Business Information Systems (BIS)**, Helwan University — CGPA 3.94, Excellent with Honors, 1st Rank in Batch
+- 🎓 **Bachelor of Business Information Systems (BIS)**, Helwan University — CGPA 3.94, Excellent with Honors, 1st Rank
+  in Batch
 - 🏅 Graduation Project **K-Hub** (A+, Best Project in College)
 
 </details>
@@ -105,7 +109,6 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 <summary>🏆 Competitive Programming</summary>
 <br/>
 
-
 - Contestant @**ACM ECPC**
 - Instructor @**ICPC FCI-Helwan** Community - Level 2
 - Trainee @**ICPC FCI-Helwan** Community - Level 1&2 (`Top #3`)
@@ -139,6 +142,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 ## 🤝 Connect With Me
+
 <p>
   <a href="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="https://www.facebook.com/ahmedarafat01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
@@ -279,6 +283,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 ## 📺 Latest YouTube Videos
+
 - [Session #1 — STLs (Linear Data Structures)](https://youtu.be/q_FXkla98Vo)
 - [Session #2 — STLs (Non-Linear Data Structures)](https://youtu.be/E3N6p3cV5YU)
 - [Session #3 — Number Theory](https://youtu.be/JaGdOl4cn_0)
@@ -286,6 +291,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 ## 🧮 Problem-Solving Stats
+
 <p float="left">
   <img height="280" src="https://leetcard.jacoblin.cool/AhmedArafat?ext=heatmap"/>
   <img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhmedArafat01&theme=dark"/>
@@ -311,6 +317,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 ## 💡 Quotes
+
 <p align="center">
   <img src="Pics/ging.gif" alt="Ging Freecss" width="100%" height="100%"/>
 </p>
@@ -332,6 +339,7 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 ---
 
 ## 🕹️ Fun Zone
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700" alt="Dino"/>
 <br/>
 <div align="center">
