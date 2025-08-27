@@ -1,3 +1,17 @@
+
+<div align="left">
+ <a href="https://leetcode.com/AhmedArafat">
+  <picture>
+   <source srcset="https://leetcard.jacoblin.cool/AhmedArafat?theme=light&border=0"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+   <source srcset="https://leetcard.jacoblin.cool/AhmedArafat?theme=dark&border=0"
+    media="(prefers-color-scheme: dark)" />
+   <img src="https://leetcard.jacoblin.cool/AhmedArafat?theme=light&border=0" height=140
+    alt="Arafat's LeetCode status" />
+  </picture>
+ </a>
+</div>
+
 ### Hello There, I'm Ahmed Mohamed Yousry - aka [Ahmed Arafat][website] 👋
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23606EAA&icon=&icon_color=%23B61414&title=Visitors+%F0%9F%91%80+&edge_flat=false)](https://hits.seeyoufarm.com) -->
  ![](https://komarev.com/ghpvc/?username=Ahmed-Arafat10&color=blue)
@@ -96,3 +110,15 @@ Please Mark The Repo As Star Or Fork It .. Happy Learning ʕ•́ᴥ•̀ʔ_**
 [youtube]: https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg
 [instagram]: https://www.instagram.com/ahmedarafat__/
 [linkedin]: https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/
+
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Arafat10/Ahmed-Arafat10/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Arafat10/Ahmed-Arafat10/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed-Arafat10/Ahmed-Arafat10/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700" alt="Dino" /><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300" alt="This page is" />
