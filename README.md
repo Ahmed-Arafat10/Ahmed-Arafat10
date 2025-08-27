@@ -330,13 +330,11 @@ Australia, plus 4 years of learning experience during college.
 
 ---
 
+## 🕹️ Fun Zone
+
 <p align="center">
   <img src="https://github.com/Ahmed-Arafat10/Ahmed-Arafat10/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
----
-
-## 🕹️ Fun Zone
 
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700" alt="Dino"/>
