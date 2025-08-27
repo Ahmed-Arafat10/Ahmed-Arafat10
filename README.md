@@ -93,9 +93,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 <summary>🌱 Internships</summary>
 <br/>
 
-- Software Engineer Intern @`Orange Digital Center (ODC)`
-- DevOps Engineer Intern @`Sprints`
-- Virtual Summer Intern @`CIB Bank`
+- Software Engineer Intern @**Orange Digital Center (ODC)**
+- DevOps Engineer Intern @**Sprints**
+- Virtual Summer Intern @**CIB Bank**
 
 </details>
 
@@ -106,9 +106,9 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 <br/>
 
 
-- Contestant At `ACM ECPC`
-- Instructor At `ICPC FCI-Helwan` Community - Level 2
-- Trainee At `ICPC FCI-Helwan` Community - Level 1&2 (`Top #3`)
+- Contestant @**ACM ECPC**
+- Instructor @**ICPC FCI-Helwan** Community - Level 2
+- Trainee @**ICPC FCI-Helwan** Community - Level 1&2 (`Top #3`)
 
 </details>
 
@@ -118,11 +118,11 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 <summary>👨‍💻 Student Activities</summary>
 <br/>
 
-- Web Developer Member At `Google Developer Student Club (GDSC)`
-- Web Development Delegate At `ThreeDos`
-- HR Member At `ThreeDos`
-- IT Member At `Microsoft Student Partner (MSP)`
-- Participant At `SCCI`
+- Web Developer Member @**Google Developer Student Club (GDSC)**
+- Web Development Delegate @**ThreeDos**
+- HR Member @**ThreeDos**
+- IT Member @**Microsoft Student Partner (MSP)**
+- Participant @**SCCI**
 
 </details>
 
