@@ -41,13 +41,13 @@ A **Software Engineer & Teaching Assistant** with 2+ years of work experience on
 <summary>💼 Work Experience</summary>
 <br/>
 
-- **Mid-Level Laravel Back-End Developer @ Next Economics & Technology Inc.**
-- **Junior Laravel Back-End Developer @ Grand Technology Inc.**
-- **Teaching Assistant @ BIS, Helwan University**
-- **Co-Founder & Back-End Developer @ InnovaDigit Solutions**
-- **Coach & Instructor @ Coach Academy**
-- **Teaching Assistant @ CIC (Canadian International College)**
-- **Teaching Assistant @ ERU (Egyptian Russian University)**
+- Mid-Level Laravel Back-End Developer @**Next Economics & Technology Inc.**
+- Junior Laravel Back-End Developer @**Grand Technology Inc.**
+- Teaching Assistant @**BIS, Helwan University**
+- Co-Founder & Back-End Developer @**InnovaDigit Solutions**
+- Coach & Instructor @**Coach Academy**
+- Teaching Assistant @**CIC (Canadian International College)**
+- Teaching Assistant @**ERU (Egyptian Russian University)**
 
 </details>
 
