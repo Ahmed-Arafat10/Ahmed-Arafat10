@@ -338,9 +338,9 @@ Australia, plus 4 years of learning experience during college.
 
 ## 🕹️ Fun Zone
 
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="700" alt="Dino"/>
 <br/>
-<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300" alt="This page is"/>
 </div>
 
