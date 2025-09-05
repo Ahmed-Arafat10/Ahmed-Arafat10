@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm <span style="color:#36BCF7">Ahmed Mohamed Yousry</span></h1>
-<h3 align="center">aka <i>Ahmed Arafat</i></h3>
+
+[//]: # (<h3 align="center">aka <i>Ahmed Arafat</i></h3>)
 <h4 align="center">Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant | Freelancer</h4>
 
 
