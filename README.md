@@ -6,9 +6,10 @@
 <h1 align="center" style="margin:0">
   👋 Hello, I'm <span style="color:#36BCF7">Ahmed Mohamed Yousry</span>
 </h1>
-<h3 align="center" style="margin:0">
-  aka <i>Ahmed Arafat</i>
-</h3>
+<p align="center" style="margin:0; font-size:1.2em; font-style:italic;">
+  aka Ahmed Arafat
+</p>
+
 
 <h4 align="center">Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant | Freelancer</h4>
 
