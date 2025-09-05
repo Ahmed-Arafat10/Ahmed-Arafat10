@@ -3,13 +3,10 @@
   <img width="100" src="Pics/Programming.gif" alt="ahmed-arafat10" />
 </p>
 
-<p align="center" style="font-size:32px; font-weight:600; margin:0;">
+<h1 align="center" style="margin:0">
   👋 Hello, I'm <span style="color:#36BCF7">Ahmed Mohamed Yousry</span>
-</p>
-<p align="center" style="font-size:20px; font-style:italic; margin:0;">
-  aka Ahmed Arafat
-</p>
-
+  <br> aka <i>Ahmed Arafat</i>
+</h1>
 
 <h4 align="center">Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant | Freelancer</h4>
 
