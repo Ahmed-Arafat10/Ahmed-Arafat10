@@ -337,7 +337,7 @@ Australia, plus 4 years of learning experience during college.
 ## 🕹️ Fun Zone
 
 <p align="center">
-  <img src="https://github.com/Ahmed-Arafat10/Ahmed-Arafat10/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github.com/Ahmed-Arafat10/Ahmed-Arafat10/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 <div align="center">
