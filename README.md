@@ -309,13 +309,8 @@ Australia, plus 4 years of learning experience during college.
 
 [//]: # (</p>)
 
-![Stats](./profile/stats.svg)
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-arafat10&show_icons=true&count_private=true&theme=react&layout=compact" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-arafat10&langs_count=10&layout=compact&theme=react" height="180"/>
-</p>
+![Stats](./profile/stats.svg)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-arafat10&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
