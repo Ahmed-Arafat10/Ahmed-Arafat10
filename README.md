@@ -31,7 +31,7 @@
 <summary>🎯 Summary</summary>
 <br/>
 
-A **Software Engineer & Teaching Assistant** with 2+ years of work experience on projects in Egypt, Saudi Arabia, USA &
+A **Software Engineer & Teaching Assistant** with 3+ years of work experience on projects in Egypt, Saudi Arabia, USA &
 Australia, plus 4 years of learning experience during college.
 
 - Passionate about **Software Development & Competitive Programming**
