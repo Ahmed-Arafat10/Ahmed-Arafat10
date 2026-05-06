@@ -9,7 +9,7 @@
   aka <i>Ahmed Arafat</i>
 </h1>
 
-<h4 align="center">Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant | Freelancer</h4>
+<h4 align="center">Backend Engineer | Scalable Systems & API Architecture | ACPC Finalist</h4>
 
 
 [![Website](https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip)](https://www.ahmedarafat.vip/Home)
@@ -22,48 +22,41 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;1x+ACPC+Finalist;2x+ECPC+Finalist;Competitive+Programmer;Founder+Of+K-Hub;Laravel+Back-End+Developer;Teaching+Assistant;CS+Instructor;Freelancer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;1x+ACPC+Finalist;2x+ECPC+Finalist;Competitive+Programmer;Backend+Engineer;Teaching+Assistant;CS+Instructor;">
 </p>
 
 ---
 
 <details open>
-<summary>🎯 Summary</summary>
+<summary>Summary</summary>
 <br/>
 
-A **Software Engineer & Teaching Assistant** with 3+ years of work experience on projects in Egypt, Saudi Arabia, USA &
-Australia, plus 4 years of learning experience during college.
-
-- Passionate about **Software Development & Competitive Programming**
-- Polymath, always evolving, committed, patient & disciplined team player
-- Currently focusing on **DSA, Databases, Back-End Skills & Vertical Growth**
-
+Backend Engineer with 3+ years of experience building scalable data-intensive systems and high-performance
+APIs across government and enterprise platforms in Egypt, Saudi Arabia, the USA, and Australia. Delivered 17+
+projects, 1,000+ API endpoints serving 50,000+ users and handling 1M+ requests. ACPC Finalist with 1,000+ solved algorithmic problems.
 </details>
 
 ---
 
 <details open>
-<summary>💼 Work Experience</summary>
+<summary>Work Experience</summary>
 <br/>
 
-- Mid-Level Laravel Back-End Developer @**Next Economics & Technology Inc.**
-- Junior Laravel Back-End Developer @**Grand Technology Inc.**
-- Teaching Assistant @**BIS, Helwan University**
+- Backend Engineer (Laravel/PHP) @**Next Economics & Technology Inc.**
+- Backend Engineer (Laravel/PHP) @**Grand Technology Inc.**
+- Teaching Assistant @**BIS, Capital University**
 - Co-Founder & Back-End Developer @**InnovaDigit Solutions**
-- Coach & Instructor @**Coach Academy**
-- Teaching Assistant @**CIC (Canadian International College)**
-- Teaching Assistant @**ERU (Egyptian Russian University)**
 
 </details>
 
 ---
 
 <details open>
-<summary>🎓 Education</summary>
+<summary>Education</summary>
 <br/>
 
-- 🎓 **MSc (In-progress)**, Postgraduate Business Information Systems (PBIS), Helwan University — CGPA 3.7, 1st Rank
-- 🎓 **Bachelor of Business Information Systems (BIS)**, Helwan University — CGPA 3.94, Excellent with Honors, 1st Rank
+- 🎓 **MSc**, Postgraduate Business Information Systems (PBIS), Capital University — CGPA 3.7, 1st Rank
+- 🎓 **Bachelor of Business Information Systems (BIS)**, Capital University — CGPA 3.94, Excellent with Honors, 1st Rank
   in Batch
 - 🏅 Graduation Project **K-Hub** (A+, Best Project in College)
 
@@ -72,74 +65,44 @@ Australia, plus 4 years of learning experience during college.
 ---
 
 <details open>
-<summary>🚀 Projects</summary>
+<summary>Projects</summary>
 <br/>
 
-- **TSCMS** – Tech Schools Control Management System
-- **SPI** – Strategic Planning & Intelligence System
 - **FilmSA** – Saudi Filming Platform
-- **WinLife** – Multi-level marketing app
+- **DAEM** – Strategic Planning & Intelligence System
 - **Buy2** – Employee & KPI Management
-- **K-Hub** – Graduation Project
+- **Uniters Academy** – Multi-level marketing app
+- **GPMS** – Graduation Projects Management System
+- **SRS** – Sections Registration System
+- **Laravel All-In-One Toolkit** – Open-Source Package
+- **TSCMS** – Tech Schools Control Management System
+- **K-Hub** – Knowledge Sharing Platform
+- **PHP MVC Framework**
 - **POS System**
-- **Automated Attendance System**
-- **Blog & Portfolio Website**
 - **ReadyStack CRM**
-- **Financial Calculator**
-- **Encryption Algorithms**
-- **AI Tic-Tac-Toe**
-
-👉 [Full Projects & Links](https://www.ahmedarafat.vip)
 
 </details>
 
 ---
 
 <details open>
-<summary>🌱 Internships</summary>
+<summary>Internships</summary>
 <br/>
 
 - Software Engineer Intern @**Orange Digital Center (ODC)**
 - DevOps Engineer Intern @**Sprints**
-- Virtual Summer Intern @**CIB Bank**
 
 </details>
 
 ---
 
 <details open>
-<summary>🏆 Competitive Programming</summary>
+<summary>Competitive Programming</summary>
 <br/>
 
-- Contestant @**ACM ECPC**
-- Instructor @**ICPC FCI-Helwan** Community - Level 2
-- Trainee @**ICPC FCI-Helwan** Community - Level 1&2 (`Top #3`)
-
-</details>
-
----
-
-<details open>
-<summary>👨‍💻 Student Activities</summary>
-<br/>
-
-- Web Developer Member @**Google Developer Student Club (GDSC)**
-- Web Development Delegate @**ThreeDos**
-- HR Member @**ThreeDos**
-- IT Member @**Microsoft Student Partner (MSP)**
-- Participant @**SCCI**
-
-</details>
-
----
-
-<details open>
-<summary>🎶 Interests</summary>
-<br/>
-
-📖 Reading Books · 🏋 Exercising · 🎮 Gaming · 🎹 Piano & Flute · 🎬 Anime & Movies
-
-</details>
+- **1x** ACPC Finalist 2025
+- **2x** ECPC Finalist
+- **1,000+** solved algorithmic problems
 
 ---
 
