@@ -12,7 +12,7 @@
 <h4 align="center">Backend Engineer | Scalable Systems & API Architecture | ACPC Finalist</h4>
 
 
-[![Website](https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip/Portfolio)](https://www.ahmedarafat.vip/Home)
+[![Website](https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip/Portfolio)](https://www.ahmedarafat.vip/Portfolio)
 
 [![Top Committers In Egypt](https://user-badge.committers.top/egypt_private/Ahmed-Arafat10.svg)](https://user-badge.committers.top/egypt_private/Ahmed-Arafat10)
 
