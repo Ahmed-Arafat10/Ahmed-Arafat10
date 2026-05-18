@@ -31,7 +31,7 @@
 <summary>Summary</summary>
 <br/>
 
-Backend Engineer with 3+ years of experience building scalable data-intensive systems and high-performance
+Backend Engineer with 4+ years of experience building scalable data-intensive systems and high-performance
 APIs across government and enterprise platforms in Egypt, Saudi Arabia, the USA, and Australia. Delivered 17+
 projects, 1,000+ API endpoints serving 50,000+ users and handling 1M+ requests. ACPC Finalist with 1,000+ solved algorithmic problems.
 </details>
