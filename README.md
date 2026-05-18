@@ -31,9 +31,9 @@
 <summary>Summary</summary>
 <br/>
 
-Backend Engineer with 4+ years of experience building scalable data-intensive systems and high-performance
-APIs across government and enterprise platforms in Egypt, Saudi Arabia, the USA, and Australia. Delivered 17+
-projects, 1,000+ API endpoints serving 50,000+ users and handling 1M+ requests. ACPC Finalist with 1,000+ solved algorithmic problems.
+Backend Engineer with **4+** years of experience building scalable data-intensive systems and high-performance
+APIs across government and enterprise platforms in Egypt, Saudi Arabia, the USA, and Australia. Delivered **17+
+projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M+ requests**. **ACPC Finalist** with **1,000+ solved** algorithmic problems.
 </details>
 
 ---
@@ -44,8 +44,8 @@ projects, 1,000+ API endpoints serving 50,000+ users and handling 1M+ requests. 
 
 - Backend Engineer (Laravel/PHP) @**Next Economics & Technology Inc.**
 - Backend Engineer (Laravel/PHP) @**Grand Technology Inc.**
-- Teaching Assistant @**BIS, Capital University**
 - Co-Founder & Back-End Developer @**InnovaDigit Solutions**
+- Teaching Assistant @**BIS, Capital University**
 
 </details>
 
