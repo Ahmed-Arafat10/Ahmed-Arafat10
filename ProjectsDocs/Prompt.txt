@@ -1,0 +1,218 @@
+I have a backend project that I have not worked on for more than a year. Act as a senior software architect, technical lead, and code reviewer.
+
+Analyze the entire project, including source code, configuration files, database schemas, APIs, background jobs, integrations, infrastructure files, documentation, and folder structure.
+
+My goal is not just to understand the code. I want to fully remember what this system does, what features it contains, how sophisticated it is, and how difficult it would be for an engineer to build.
+
+Please create a comprehensive report with the following sections:
+
+1. PROJECT OVERVIEW
+
+Write a detailed explanation of the system from a product and business perspective.
+
+Explain:
+- What the system does
+- What problem it solves
+- Who uses it
+- The major workflows
+- The responsibilities of the backend
+- How the various parts of the system work together
+
+Assume I am the original developer returning after a year away and need to quickly understand the project again.
+
+Do not start with technical details. First explain the project as a complete product.
+
+---
+
+2. FEATURE DISCOVERY
+
+Identify every feature you can find.
+
+For each feature explain:
+- What it does
+- Why it exists
+- How users benefit from it
+- Which modules are involved
+- How it interacts with other features
+
+Group related features together.
+
+Highlight features that appear particularly advanced, technically challenging, or uncommon.
+
+---
+
+3. SYSTEM WALKTHROUGH
+
+Reconstruct the complete user journey through the application.
+
+Describe realistic scenarios showing how users interact with the system from beginning to end.
+
+Include:
+- Authentication and authorization
+- Main business operations
+- Data processing
+- Notifications
+- Scheduled tasks
+- Administrative functions
+- External integrations
+
+Help me visualize how the system is actually used in production.
+
+---
+
+4. ARCHITECTURE EXPLANATION
+
+Explain the architecture in plain English.
+
+Describe:
+- Major modules
+- Responsibilities of each module
+- Request flow
+- Data flow
+- Key design patterns
+- Separation of concerns
+- Architectural decisions
+
+Focus on understanding rather than implementation details.
+
+---
+
+5. COMPLEXITY AND ENGINEERING ASSESSMENT
+
+Evaluate the project as if you were reviewing it during a senior engineering interview.
+
+Score each category from 0-100 and explain your reasoning:
+
+- Backend engineering complexity
+- Architecture quality
+- Scalability
+- Security
+- Database design
+- API design
+- Maintainability
+- Code quality
+- Production readiness
+- Testing strategy
+
+Then provide:
+
+- Overall project complexity score (0-100)
+- Overall engineering maturity score (0-100)
+- Estimated developer seniority demonstrated by this project
+
+Choose from:
+- Junior
+- Mid-Level
+- Strong Mid-Level
+- Senior
+- Strong Senior
+- Staff / Lead
+
+Explain the reasoning in depth.
+
+---
+
+6. ADVANCED ENGINEERING ANALYSIS
+
+Identify advanced concepts present in the project.
+
+Examples include:
+- Caching
+- Queues
+- Event-driven architecture
+- WebSockets
+- Background processing
+- Distributed systems concepts
+- Rate limiting
+- RBAC
+- Multi-tenancy
+- Audit logging
+- Monitoring
+- Observability
+- Security hardening
+- Performance optimization
+- Domain-driven design
+- CQRS
+- Microservices
+- Real-time communication
+
+For each advanced concept found:
+- Explain how it works
+- Why it was needed
+- Complexity level
+- Engineering difficulty
+- How impressive it is from a professional standpoint
+
+---
+
+7. MOST CHALLENGING PARTS OF THE SYSTEM
+
+Identify the most technically difficult areas.
+
+For each area explain:
+- Why it is difficult
+- What knowledge is required
+- Common implementation mistakes
+- What level of engineer is typically capable of building it
+
+Rank these sections from easiest to hardest.
+
+---
+
+8. RESUME AND PORTFOLIO EVALUATION
+
+Assume this project appears on a software engineer's resume.
+
+Evaluate:
+- How impressive it would be to hiring managers
+- How impressive it would be to senior engineers
+- How impressive it would be to architects and tech leads
+
+Explain:
+- What stands out
+- What demonstrates advanced engineering ability
+- What is relatively standard
+- What would make someone want to discuss this project during an interview
+
+---
+
+9. DETAILED PROJECT MEMORY DOCUMENT
+
+Create a long-form description that I can save and read months from now to immediately remember this project.
+
+This section should describe:
+- What the system does
+- Its major capabilities
+- Its architecture
+- Its most important technical decisions
+- Its advanced engineering aspects
+- Its complexity
+- Its strengths and weaknesses
+
+Write this as a narrative document, not just bullet points.
+
+Make it detailed enough that reading it later will quickly refresh my understanding of the project.
+
+---
+
+10. FINAL VERDICT
+
+Provide a final assessment including:
+
+- Overall complexity score (0-100)
+- Overall engineering maturity score (0-100)
+- Estimated development effort required to build this project from scratch
+- Estimated developer level required to build it
+- Most impressive aspects
+- Weakest aspects
+- Key lessons demonstrated by the project
+
+Be analytical, critical, and evidence-based.
+
+Do not merely describe folders and files. Infer the actual business logic, workflows, architecture, and engineering decisions from the codebase.
+
+Whenever possible, cite the code locations that support your conclusions.
+
+Assume I am the original developer returning after one year and need a complete technical and product-level refresher.
+create .md file with content please
+and do expose any senstive file or information as  generated md file will be used as pdf in my portfolio

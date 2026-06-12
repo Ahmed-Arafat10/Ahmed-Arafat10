@@ -19,7 +19,7 @@ graph TD
     Client[Production Company / Filmmaker] -->|Apply & Upload QPE| WebApp[FilmSA Client Dashboard]
     Admin[Film Commission Admin / Auditor] -->|Audit & Approve Steps| AdminPanel[FilmSA Admin Portal]
     
-    subgraph FilmSA Back-End (Laravel API Engine)
+    subgraph FilmSA Back-End
         API[Stateless JWT Gateway] --> Auth[OTP & Session Security]
         API --> CR[Cash Rebate Engine: 9 Steps]
         API --> DAW[Daw' Grants Engine: Installments]
