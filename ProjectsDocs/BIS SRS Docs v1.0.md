@@ -4,26 +4,6 @@ This report provides a senior-level architectural analysis, feature audit, syste
 
 ---
 
-## 📊 PROJECT STATISTICS
-
-Here is a quantitative breakdown of the codebase's custom PHP files (excluding the `vendor` folder):
-
-| Metric | Count | Details / Supporting Components |
-| :--- | :---: | :--- |
-| **Total PHP Files** | **144** | Core business logic, migrations, seeders, configurations, and enums. |
-| **Total Lines of Code (LOC)** | **7,770** | Clean, modular PHP code adhering to Laravel standard styles. |
-| **Controllers** | **7** | 4 Domain-level [SRS Controllers](file:///d:/My%20GitHub/BIS%20Systems/SRS/SRS%20BE/app/SRS/), 2 HTTP Controllers, and 1 Base Controller. |
-| **Services** | **4** | Encapsulated business logic layers representing vertical slices. |
-| **Form Requests** | **4** | Custom validation rule containers with granular error aggregation. |
-| **Eloquent Models** | **18** | Schema wrappers modeling the academic environment. |
-| **System Enums** | **10** | Strongly-typed enums for rooms, days, departments, and system states. |
-| **Background Queue Jobs** | **4** | Async notifications via queue-backed SMTP rotators. |
-| **Custom Console Commands** | **2** | CLI synchronization and database integrity validation. |
-| **Database Tables** | **21** | Defined in migrations, representing academic, team, and queue entities. |
-| **Blade View Templates** | **6** | 2 grading dashboard panels and 4 highly styled transactional emails. |
-
----
-
 ## 1. PROJECT OVERVIEW
 
 ### Business and Product Perspective
