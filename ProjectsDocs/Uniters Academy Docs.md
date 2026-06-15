@@ -6,20 +6,6 @@ architectural sophistication, and technical achievements of the codebase after a
 
 ---
 
-## CODEBASE STATISTICS
-
-Below are the objective metrics of the WinLife PHP/Laravel codebase, excluding all external library code (e.g.,
-`vendor/` and third-party node packages):
-
-* **Total Lines of PHP Code:** `33,174` lines
-* **Total PHP Files:** `646` files
-* **Eloquent Models:** `79` models (located in `app/Models/`)
-* **Controllers:** `48` controllers (spanning `app/Http/Controllers/` and the modular `app/WinLife/` directory)
-* **Services:** `43` services (housing core business operations and domain logic)
-* **Database Migrations (Tables/Schemas):** `134` migrations
-
----
-
 ## 1. PROJECT OVERVIEW
 
 ### Business and Product Perspective
