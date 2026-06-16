@@ -74,13 +74,13 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 
 - <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=4&platform=GitHub" target="_blank">Buy2 – Employee & KPI Management</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=3&platform=GitHub" target="_blank">Uniters Academy – Multi-level marketing app</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=3&platform=GitHub" target="_blank">Uniters Academy – Multi-level Marketing Platform</a>
 
 - <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=5&platform=GitHub" target="_blank">GPMS – Graduation Projects Management System</a>
 
 - <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=6&platform=GitHub" target="_blank">SRS – Sections Registration System</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=12&platform=GitHub" target="_blank">Laravel All-In-One Toolkit – Open-Source Package</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=12&platform=GitHub" target="_blank">Laravel All-In-One Toolkit (Open-Source Package)</a>
 
 - <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=9&platform=GitHub" target="_blank">TSCMS – Tech Schools Control Management System</a>
 
