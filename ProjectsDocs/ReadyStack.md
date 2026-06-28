@@ -1,5 +1,21 @@
 # Ready Stack - Project Architectural & Technical Audit
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [Core Features](#core-features)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+- [10. FINAL VERDICT](#10-final-verdict)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 From a product and business perspective, the **Ready Stack** platform serves as a dynamic, content-managed corporate website and online consultation portal. It is designed to act as the primary digital footprint for an IT consultancy and outsourcing agency (Ready Stack), showcasing their services, portfolio, and vision.

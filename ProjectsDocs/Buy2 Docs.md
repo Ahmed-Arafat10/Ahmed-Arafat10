@@ -6,6 +6,57 @@
 
 ---
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+  - [Product & Business Perspective](#product-business-perspective)
+  - [The Problem It Solves](#the-problem-it-solves)
+  - [Who Uses the System](#who-uses-the-system)
+  - [Major Workflows](#major-workflows)
+- [2. CODEBASE STATISTICS & METRICS](#2-codebase-statistics-metrics)
+- [3. FEATURE DISCOVERY](#3-feature-discovery)
+  - [1. Shift Scheduling & Roster Management (Phase 2 Core)](#1-shift-scheduling-roster-management-phase-2-core)
+  - [2. Geofence Wi-Fi MAC Address Attendance Verification](#2-geofence-wi-fi-mac-address-attendance-verification)
+  - [3. Gamified Rewards Program (Loyalty Engine)](#3-gamified-rewards-program-loyalty-engine)
+  - [4. Enterprise Request & Approval Workflows](#4-enterprise-request-approval-workflows)
+  - [5. Multi-Threaded Task & Project Management](#5-multi-threaded-task-project-management)
+- [4. SYSTEM WALKTHROUGH](#4-system-walkthrough)
+  - [Reconstructing the User Journey](#reconstructing-the-user-journey)
+    - [1. Onboarding & Authentication](#1-onboarding-authentication)
+    - [2. Roster Planning & Publishing (Admin & Manager)](#2-roster-planning-publishing-admin-manager)
+    - [3. Daily Attendance & Time Tracking (Employee)](#3-daily-attendance-time-tracking-employee)
+    - [4. Shift Swapping & Leave Requests (Employee & Manager)](#4-shift-swapping-leave-requests-employee-manager)
+    - [5. Scheduled Evaluations & Gamification (Background Jobs)](#5-scheduled-evaluations-gamification-background-jobs)
+- [5. ARCHITECTURE EXPLANATION](#5-architecture-explanation)
+  - [Plain English Walkthrough](#plain-english-walkthrough)
+  - [Major Modules & Folder Structure](#major-modules-folder-structure)
+  - [Key Architectural Patterns](#key-architectural-patterns)
+- [6. COMPLEXITY AND ENGINEERING ASSESSMENT](#6-complexity-and-engineering-assessment)
+  - [Overall Scores & Evaluation](#overall-scores-evaluation)
+  - [Rationale](#rationale)
+- [7. ADVANCED ENGINEERING ANALYSIS](#7-advanced-engineering-analysis)
+  - [1. WI-FI Router MAC Address Geofencing](#1-wi-fi-router-mac-address-geofencing)
+  - [2. Recursive Shift Replication & Scheduling Conflict Engine](#2-recursive-shift-replication-scheduling-conflict-engine)
+  - [3. Automated KPI Assignment & Scoring Engine](#3-automated-kpi-assignment-scoring-engine)
+- [8. MOST CHALLENGING PARTS OF THE SYSTEM](#8-most-challenging-parts-of-the-system)
+  - [1. The Shift Publishing & Copy Conflict Engine](#1-the-shift-publishing-copy-conflict-engine)
+  - [2. Multi-Week Overtime (OT) Accumulation & Allocation Logic](#2-multi-week-overtime-ot-accumulation-allocation-logic)
+  - [3. Geofencing Wi-Fi MAC Address Integration](#3-geofencing-wi-fi-mac-address-integration)
+- [9. RESUME AND PORTFOLIO EVALUATION](#9-resume-and-portfolio-evaluation)
+  - [Impressiveness to Hiring Managers](#impressiveness-to-hiring-managers)
+  - [Impressiveness to Senior Engineers](#impressiveness-to-senior-engineers)
+  - [Impressiveness to Architects & Tech Leads](#impressiveness-to-architects-tech-leads)
+  - [What to Highlight in an Interview](#what-to-highlight-in-an-interview)
+- [10. DETAILED PROJECT MEMORY DOCUMENT](#10-detailed-project-memory-document)
+  - [System Narrative](#system-narrative)
+  - [Key Technical Decisions](#key-technical-decisions)
+  - [Strengths & Weaknesses](#strengths-weaknesses)
+- [11. FINAL VERDICT](#11-final-verdict)
+  - [Most Impressive Aspects](#most-impressive-aspects)
+  - [Weakest Aspects & Areas for Improvement](#weakest-aspects-areas-for-improvement)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 ### Product & Business Perspective

@@ -4,6 +4,62 @@ This document serves as a comprehensive, production-level architectural breakdow
 
 ---
   
+## Table of Contents
+
+- [1. Project Overview](#1-project-overview)
+  - [Product and Business Vision](#product-and-business-vision)
+  - [Major Stakeholders & Users](#major-stakeholders-users)
+  - [Backend Responsibilities & Collaboration](#backend-responsibilities-collaboration)
+- [2. Feature Discovery](#2-feature-discovery)
+  - [Domain A: Cash Rebate (CR) Application Engine](#domain-a-cash-rebate-cr-application-engine)
+  - [Domain B: Daw' (DAW) Grants Engine](#domain-b-daw-daw-grants-engine)
+  - [Domain C: Professional Talent & Crew Directory](#domain-c-professional-talent-crew-directory)
+  - [Domain D: Interactive AI Assistant & RAG Integration](#domain-d-interactive-ai-assistant-rag-integration)
+  - [Domain E: Support Helpdesk & Communication](#domain-e-support-helpdesk-communication)
+- [3. System Walkthrough](#3-system-walkthrough)
+  - [Scenario: The Step 7 Financial Ingest-Parsing & Audit](#scenario-the-step-7-financial-ingest-parsing-audit)
+- [4. Architecture Explanation](#4-architecture-explanation)
+  - [Modular Structure](#modular-structure)
+  - [separation of Concerns (SoC)](#separation-of-concerns-soc)
+  - [Key Architectural Design Patterns](#key-architectural-design-patterns)
+- [5. Complexity & Engineering Assessment](#5-complexity-engineering-assessment)
+  - [Category Evaluation](#category-evaluation)
+    - [1. Backend Engineering Complexity: 92/100](#1-backend-engineering-complexity-92100)
+    - [2. Architecture Quality: 90/100](#2-architecture-quality-90100)
+    - [3. Scalability: 84/100](#3-scalability-84100)
+    - [4. Security: 89/100](#4-security-89100)
+    - [5. Database Design: 91/100](#5-database-design-91100)
+    - [6. API Design: 88/100](#6-api-design-88100)
+    - [7. Maintainability: 87/100](#7-maintainability-87100)
+    - [8. Code Quality: 89/100](#8-code-quality-89100)
+    - [9. Production Readiness: 86/100](#9-production-readiness-86100)
+    - [10. Testing Strategy: 65/100](#10-testing-strategy-65100)
+  - [Overall System Assessment](#overall-system-assessment)
+- [6. Advanced Engineering Analysis](#6-advanced-engineering-analysis)
+  - [1. Two-Phase Staging File Upload Pipeline](#1-two-phase-staging-file-upload-pipeline)
+  - [2. Custom Excel Compiler and Data-Mapping Engine](#2-custom-excel-compiler-and-data-mapping-engine)
+  - [3. Dynamic State Machine for Multi-Step Locking](#3-dynamic-state-machine-for-multi-step-locking)
+  - [4. Real-time WebSocket Broadcasting and Event loops](#4-real-time-websocket-broadcasting-and-event-loops)
+  - [5. Multi-Guard Stateless Security Engine](#5-multi-guard-stateless-security-engine)
+- [7. Most Challenging Parts of the System](#7-most-challenging-parts-of-the-system)
+  - [Deep Dive: Ingest-Parsing Spreadsheet Compiler](#deep-dive-ingest-parsing-spreadsheet-compiler)
+- [8. Resume & Portfolio Evaluation](#8-resume-portfolio-evaluation)
+  - [How Hiring Managers See It](#how-hiring-managers-see-it)
+  - [How Senior Engineers See It](#how-senior-engineers-see-it)
+  - [How Architects & Tech Leads See It](#how-architects-tech-leads-see-it)
+- [9. Detailed Project Memory Document](#9-detailed-project-memory-document)
+  - [Core Identity](#core-identity)
+  - [System Capabilities & Workflows](#system-capabilities-workflows)
+  - [Architectural Decisions](#architectural-decisions)
+- [10. Final Verdict](#10-final-verdict)
+  - [Quantitative Scores](#quantitative-scores)
+  - [Most Impressive Aspects](#most-impressive-aspects)
+  - [Areas for Future Optimization](#areas-for-future-optimization)
+  - [Key Lessons Demonstrated](#key-lessons-demonstrated)
+- [11. Statistics](#11-statistics)
+
+---
+
 ## 1. Project Overview
 
 ### Product and Business Vision

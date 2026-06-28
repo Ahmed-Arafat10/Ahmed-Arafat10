@@ -2,6 +2,51 @@
 
 ---
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+  - [Business and Product Perspective](#business-and-product-perspective)
+  - [The Core Problem Solved](#the-core-problem-solved)
+  - [Core Backend Responsibilities](#core-backend-responsibilities)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [A. Core Educational Engine](#a-core-educational-engine)
+  - [B. Communication & Collaboration Workspace](#b-communication-collaboration-workspace)
+  - [C. Social Networking Platform](#c-social-networking-platform)
+  - [D. Security & Access Gating](#d-security-access-gating)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+  - [The Student Journey (Production Simulation)](#the-student-journey-production-simulation)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+  - [Routing & Request Flow](#routing-request-flow)
+  - [Key Separation of Concerns](#key-separation-of-concerns)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+  - [Overall Scores](#overall-scores)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+  - [A. End-to-End Chat Cryptography (Asymmetric RSA)](#a-end-to-end-chat-cryptography-asymmetric-rsa)
+  - [B. Custom Database Parameter Binding Abstraction](#b-custom-database-parameter-binding-abstraction)
+  - [C. Atomic Synchronization Transaction Engine](#c-atomic-synchronization-transaction-engine)
+  - [D. Jenkins Continuous Integration & Containerization](#d-jenkins-continuous-integration-containerization)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+  - [4. Sliding-Window Rate Limiter](#4-sliding-window-rate-limiter)
+  - [3. Course Access state-machine (Roadmap Gating)](#3-course-access-state-machine-roadmap-gating)
+  - [2. External API Student Synchronizer](#2-external-api-student-synchronizer)
+  - [1. Asymmetric End-to-End Chat Cryptography](#1-asymmetric-end-to-end-chat-cryptography)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+  - [Resume Impact Summary](#resume-impact-summary)
+  - [What Stands Out to Hiring Managers](#what-stands-out-to-hiring-managers)
+  - [What Stands Out to Architects and Tech Leads](#what-stands-out-to-architects-and-tech-leads)
+  - [Standard Elements](#standard-elements)
+  - [Recommended Interview Discussion Topics](#recommended-interview-discussion-topics)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+  - [System Architecture and Purpose](#system-architecture-and-purpose)
+  - [Critical Engineering Decisions](#critical-engineering-decisions)
+  - [System Strengths & Weaknesses](#system-strengths-weaknesses)
+- [10. FINAL VERDICT](#10-final-verdict)
+  - [Most Impressive Aspects](#most-impressive-aspects)
+  - [Weakest Aspects](#weakest-aspects)
+  - [Key Lessons Demonstrated](#key-lessons-demonstrated)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 ### Business and Product Perspective

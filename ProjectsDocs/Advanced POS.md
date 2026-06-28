@@ -1,5 +1,25 @@
 # Advanced Point of Sale & ERP System: Architectural and Engineering Analysis
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [Core POS & Sales](#core-pos-sales)
+  - [Inventory & Supply Chain](#inventory-supply-chain)
+  - [Human Resources (HR) & Payroll](#human-resources-hr-payroll)
+  - [CRM & Finance](#crm-finance)
+  - [System & Administration](#system-administration)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+- [10. FINAL VERDICT](#10-final-verdict)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 From a product and business perspective, this application is a comprehensive **Enterprise Resource Planning (ERP) and Point of Sale (POS) system** designed for small to medium-sized retail businesses or enterprise stores.

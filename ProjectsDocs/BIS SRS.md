@@ -4,6 +4,59 @@ This report provides a senior-level architectural analysis, feature audit, syste
 
 ---
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+  - [Business and Product Perspective](#business-and-product-perspective)
+  - [The Problem It Solves](#the-problem-it-solves)
+  - [User Roles](#user-roles)
+  - [Core Architecture Context](#core-architecture-context)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [A. Section & Scheduling Registration (Vertical Slice: `RegisterSection`)](#a-section-scheduling-registration-vertical-slice-registersection)
+  - [B. Course Team Registration (Vertical Slice: `RegisterTeam`)](#b-course-team-registration-vertical-slice-registerteam)
+  - [C. Secure Project Deliverable Uploader (Vertical Slice: `UploadTeamProject`)](#c-secure-project-deliverable-uploader-vertical-slice-uploadteamproject)
+  - [D. Course Reviews & Feedback (Vertical Slice: `WriteReview`)](#d-course-reviews-feedback-vertical-slice-writereview)
+  - [E. Team Grading & Administrative Dashboard](#e-team-grading-administrative-dashboard)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+  - [Architectural Principles and Design Patterns](#architectural-principles-and-design-patterns)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+  - [1. Backend Engineering Complexity: 85/100](#1-backend-engineering-complexity-85100)
+  - [2. Architecture Quality: 90/100](#2-architecture-quality-90100)
+  - [3. Scalability: 82/100](#3-scalability-82100)
+  - [4. Security: 88/100](#4-security-88100)
+  - [5. Database Design: 86/100](#5-database-design-86100)
+  - [6. API Design: 80/100](#6-api-design-80100)
+  - [7. Maintainability: 85/100](#7-maintainability-85100)
+  - [8. Code Quality: 88/100](#8-code-quality-88100)
+  - [9. Production Readiness: 84/100](#9-production-readiness-84100)
+  - [10. Testing Strategy: 5/100](#10-testing-strategy-5100)
+  - [Summary Metrics](#summary-metrics)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+  - [A. Defensive File Upload Scan (Security Sandboxing)](#a-defensive-file-upload-scan-security-sandboxing)
+  - [B. Database Row Locking (`lockForUpdate`)](#b-database-row-locking-lockforupdate)
+  - [C. Multi-Account SMTP Rotation (Smart Mail Sender)](#c-multi-account-smtp-rotation-smart-mail-sender)
+  - [D. Advanced Custom Form Request Validation Rules](#d-advanced-custom-form-request-validation-rules)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+  - [1. Nested Array Validation in Form Requests](#1-nested-array-validation-in-form-requests)
+  - [2. Team Grading & Grade Propagation Logic](#2-team-grading-grade-propagation-logic)
+  - [3. Concurrency-Safe Registrations (Row Locks)](#3-concurrency-safe-registrations-row-locks)
+  - [4. Safe ZIP Extraction and Code Scanning](#4-safe-zip-extraction-and-code-scanning)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+  - [A. Hiring Managers (Focus: Deliverables & Business Value)](#a-hiring-managers-focus-deliverables-business-value)
+  - [B. Senior Engineers (Focus: Code Quality & Implementation details)](#b-senior-engineers-focus-code-quality-implementation-details)
+  - [C. Architects & Tech Leads (Focus: Design Patterns & Systems Thinking)](#c-architects-tech-leads-focus-design-patterns-systems-thinking)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+  - [Narrative Overview](#narrative-overview)
+  - [Technical Architecture](#technical-architecture)
+  - [Key Engineering Decisions](#key-engineering-decisions)
+- [10. FINAL VERDICT](#10-final-verdict)
+  - [Most Impressive Aspects](#most-impressive-aspects)
+  - [Weakest Aspects](#weakest-aspects)
+  - [Key Lessons Demonstrated](#key-lessons-demonstrated)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 ### Business and Product Perspective

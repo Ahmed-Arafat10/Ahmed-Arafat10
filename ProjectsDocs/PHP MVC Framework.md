@@ -1,5 +1,29 @@
 # Architectural Audit & Project Analysis: Custom PHP MVC Framework
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+  - [The Product](#the-product)
+  - [The Problem It Solves](#the-problem-it-solves)
+  - [Target Audience & Workflows](#target-audience-workflows)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [Framework Core Features](#framework-core-features)
+  - [Built-in Application Features (Demo Implementation)](#built-in-application-features-demo-implementation)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+  - [1. Dynamic Routing Engine](#1-dynamic-routing-engine)
+  - [2. Custom Active Record ORM (`core/Model.php`)](#2-custom-active-record-orm-coremodelphp)
+  - [3. Middleware Pipeline](#3-middleware-pipeline)
+  - [4. CLI Schema Migrations](#4-cli-schema-migrations)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+- [10. FINAL VERDICT](#10-final-verdict)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 ### The Product

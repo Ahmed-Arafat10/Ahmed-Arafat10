@@ -6,6 +6,40 @@ architectural sophistication, and technical achievements of the codebase after a
 
 ---
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+  - [Business and Product Perspective](#business-and-product-perspective)
+  - [System Users](#system-users)
+  - [Major Workflows & Backend Responsibilities](#major-workflows-backend-responsibilities)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [A. Onboarding & Partner Registration Wizard (Modular Steps)](#a-onboarding-partner-registration-wizard-modular-steps)
+  - [B. Binary Tree Hierarchy & Placement Engine](#b-binary-tree-hierarchy-placement-engine)
+  - [C. Compensation & Settlement Engine (Taswia)](#c-compensation-settlement-engine-taswia)
+  - [D. Multi-Wallet Transaction Ledger](#d-multi-wallet-transaction-ledger)
+  - [E. E-Learning Core & Progress Tracking](#e-e-learning-core-progress-tracking)
+  - [F. Fawry Payment Gateway Integration](#f-fawry-payment-gateway-integration)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+  - [Modular Directory Structure](#modular-directory-structure)
+  - [Key Architectural Decisions](#key-architectural-decisions)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+  - [A. Graph Traversal with Breadth-First Search (BFS)](#a-graph-traversal-with-breadth-first-search-bfs)
+  - [B. Pessimistic Database Locking](#b-pessimistic-database-locking)
+  - [C. Decoupled Auditing & Event Logs](#c-decoupled-auditing-event-logs)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+- [8. RESUME & PORTFOLIO EVALUATION](#8-resume-portfolio-evaluation)
+  - [Hiring Managers](#hiring-managers)
+  - [Senior Engineers & Architects](#senior-engineers-architects)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+  - [Architectural Foundation](#architectural-foundation)
+  - [Core Business Operations](#core-business-operations)
+  - [Security and Financial Integrity](#security-and-financial-integrity)
+- [10. FINAL VERDICT](#10-final-verdict)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 ### Business and Product Perspective

@@ -1,5 +1,32 @@
 # BIS Graduation Projects Management System - Technical Analysis Report
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+  - [What the system does](#what-the-system-does)
+  - [What problem it solves](#what-problem-it-solves)
+  - [Who uses it](#who-uses-it)
+  - [Major workflows](#major-workflows)
+  - [The responsibilities of the backend](#the-responsibilities-of-the-backend)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [User Management & Authentication](#user-management-authentication)
+  - [Team & Project Management](#team-project-management)
+  - [Complaint & Support System](#complaint-support-system)
+  - [Automated Administrative Utilities (CLI Commands)](#automated-administrative-utilities-cli-commands)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+  - [Major Modules](#major-modules)
+  - [Request & Data Flow](#request-data-flow)
+  - [Key Design Patterns](#key-design-patterns)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+- [10. FINAL VERDICT](#10-final-verdict)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 From a product and business perspective, the **BIS Graduation Projects Management System (GPMS)** is a comprehensive platform built to streamline, digitalize, and manage the entire lifecycle of graduation projects for university students.

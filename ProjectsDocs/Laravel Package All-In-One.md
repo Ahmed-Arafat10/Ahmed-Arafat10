@@ -1,5 +1,27 @@
 # Laravel All-In-One Toolkit: Architectural & Engineering Audit
 
+## Table of Contents
+
+- [1. PROJECT OVERVIEW](#1-project-overview)
+- [2. FEATURE DISCOVERY](#2-feature-discovery)
+  - [API & Data Presentation](#api-data-presentation)
+  - [Query Abstraction Engine](#query-abstraction-engine)
+  - [Complex Data Validation](#complex-data-validation)
+  - [Automation & Tooling](#automation-tooling)
+- [3. SYSTEM WALKTHROUGH](#3-system-walkthrough)
+- [4. ARCHITECTURE EXPLANATION](#4-architecture-explanation)
+- [5. COMPLEXITY AND ENGINEERING ASSESSMENT](#5-complexity-and-engineering-assessment)
+- [6. ADVANCED ENGINEERING ANALYSIS](#6-advanced-engineering-analysis)
+  - [1. Recursive Data Validation Engine (`CustomExcelSheetHandler`)](#1-recursive-data-validation-engine-customexcelsheethandler)
+  - [2. Large File Stream Manipulation (`PhpMyAdminDatabaseTablesExtractorCommand`)](#2-large-file-stream-manipulation-phpmyadmindatabasetablesextractorcommand)
+  - [3. Dynamic Meta-Programming (`FilterableTrait`, `SortableTrait`)](#3-dynamic-meta-programming-filterabletrait-sortabletrait)
+- [7. MOST CHALLENGING PARTS OF THE SYSTEM](#7-most-challenging-parts-of-the-system)
+- [8. RESUME AND PORTFOLIO EVALUATION](#8-resume-and-portfolio-evaluation)
+- [9. DETAILED PROJECT MEMORY DOCUMENT](#9-detailed-project-memory-document)
+- [10. FINAL VERDICT](#10-final-verdict)
+
+---
+
 ## 1. PROJECT OVERVIEW
 
 From a product and business perspective, the **Laravel All-In-One Toolkit** is an enterprise-grade developer productivity package designed to solve the "blank slate" problem in Laravel application development.

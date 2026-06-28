@@ -1,5 +1,50 @@
 # DAEM Backend
 
+## Table of Contents
+
+- [Comprehensive Architectural, Product, and Technical Assessment Report](#comprehensive-architectural-product-and-technical-assessment-report)
+- [1. Project Overview & Business Value](#1-project-overview-business-value)
+  - [Product Concept & Purpose](#product-concept-purpose)
+  - [Core Business Problems Solved](#core-business-problems-solved)
+  - [Target User Personas](#target-user-personas)
+  - [High-Level Workflow Coordination](#high-level-workflow-coordination)
+- [2. Codebase Metrics & Statistics](#2-codebase-metrics-statistics)
+  - [File and Code Volume](#file-and-code-volume)
+  - [Architectural Component Counts](#architectural-component-counts)
+- [3. Feature Discovery & Module Relationships](#3-feature-discovery-module-relationships)
+  - [Group A: Automated Financial Statement Parsing & ETL](#group-a-automated-financial-statement-parsing-etl)
+  - [Group B: Benchmarking & Financial Analytics](#group-b-benchmarking-financial-analytics)
+  - [Group C: Compliance & Text Intelligence](#group-c-compliance-text-intelligence)
+  - [Group D: Feeds, Scraping, & Strategic Planning](#group-d-feeds-scraping-strategic-planning)
+- [4. End-to-End System Walkthrough](#4-end-to-end-system-walkthrough)
+- [5. Architectural Explanation](#5-architectural-explanation)
+- [6. Technical Complexity & Engineering Assessment](#6-technical-complexity-engineering-assessment)
+  - [Metric Scores (0-100)](#metric-scores-0-100)
+  - [Developer Seniority Assessment: **Strong Senior / Technical Lead**](#developer-seniority-assessment-strong-senior-technical-lead)
+- [7. Advanced Engineering Analysis](#7-advanced-engineering-analysis)
+  - [1. NLP and Statistical Text Matching](#1-nlp-and-statistical-text-matching)
+  - [2. Multi-Engine Search Syncing (Double Indexing)](#2-multi-engine-search-syncing-double-indexing)
+  - [3. Modular Financial Commentary Engine](#3-modular-financial-commentary-engine)
+  - [4. Distributed External API Scraping](#4-distributed-external-api-scraping)
+- [8. Most Challenging Parts of the System](#8-most-challenging-parts-of-the-system)
+  - [1. X/Twitter API Rate Limit Management](#1-xtwitter-api-rate-limit-management)
+  - [2. Hierarchical Category Extraction from Sheets](#2-hierarchical-category-extraction-from-sheets)
+  - [3. ElasticSearch Double Indexing](#3-elasticsearch-double-indexing)
+  - [4. Custom Financial ETL Parser](#4-custom-financial-etl-parser)
+- [9. Resume and Portfolio Evaluation](#9-resume-and-portfolio-evaluation)
+  - [To a Hiring Manager](#to-a-hiring-manager)
+  - [To a Senior Engineer](#to-a-senior-engineer)
+  - [To an Architect or Tech Lead](#to-an-architect-or-tech-lead)
+  - [Recommended Portfolio Description](#recommended-portfolio-description)
+- [10. Detailed Project Memory Document](#10-detailed-project-memory-document)
+  - [System Architecture](#system-architecture)
+  - [Major Capabilities](#major-capabilities)
+  - [Key Technical Decisions](#key-technical-decisions)
+  - [Strengths & Weaknesses](#strengths-weaknesses)
+- [11. Final Verdict](#11-final-verdict)
+
+---
+
 ## Comprehensive Architectural, Product, and Technical Assessment Report
 
 **Role:** Senior Software Architect, Technical Lead, and Principal Code Reviewer  
