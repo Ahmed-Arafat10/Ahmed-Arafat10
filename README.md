@@ -68,18 +68,31 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 <summary>Projects</summary>
 <br/>
 
-- **FilmSA** – Saudi Filming Platform
-- **DAEM** – Strategic Planning & Intelligence System
-- **Buy2** – Employee & KPI Management
-- **Uniters Academy** – Multi-level marketing app
-- **GPMS** – Graduation Projects Management System
-- **SRS** – Sections Registration System
-- **Laravel All-In-One Toolkit** – Open-Source Package
-- **TSCMS** – Tech Schools Control Management System
-- **K-Hub** – Knowledge Sharing Platform
-- **PHP MVC Framework**
-- **POS System**
-- **ReadyStack CRM**
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=1&platform=GitHub" target="_blank">FilmSA – Saudi Filming Platform</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=2&platform=GitHub" target="_blank">DAEM – Strategic Planning & Intelligence System</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=4&platform=GitHub" target="_blank">Buy2 – Employee & KPI Management</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=3&platform=GitHub" target="_blank">Uniters Academy – Multi-level Marketing Platform</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=5&platform=GitHub" target="_blank">GPMS – Graduation Projects Management System</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=6&platform=GitHub" target="_blank">SRS – Sections Registration System</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=12&platform=GitHub" target="_blank">Laravel All-In-One Toolkit (Open-Source Package)</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=9&platform=GitHub" target="_blank">TSCMS – Tech Schools Control Management System</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=8&platform=GitHub" target="_blank">DT Requirements – Digital Transformation Compliance Platform</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=7&platform=GitHub" target="_blank">K-Hub – Knowledge Sharing Platform</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=11&platform=GitHub" target="_blank">PHP MVC Framework</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=14&platform=GitHub" target="_blank">POS System</a>
+
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=13&platform=GitHub" target="_blank">ReadyStack CRM</a>
 
 </details>
 
@@ -103,6 +116,7 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 - **1x** ACPC Finalist 2025
 - **2x** ECPC Finalist
 - **1,000+** solved algorithmic problems
+</details>
 
 ---
 
@@ -306,4 +320,3 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 <br/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300" alt="This page is"/>
 </div>
-
