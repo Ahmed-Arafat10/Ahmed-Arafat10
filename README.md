@@ -130,6 +130,7 @@ real-world examples gathered throughout my software engineering journey.
 - [GitHub Actions CI/CD Documentation](https://github.com/Ahmed-Arafat10/GitHub-Actions-CI-CD-Documentation)
 - [GraphQL Documentation](https://github.com/Ahmed-Arafat10/GraphQL-Documentation)
 - [gRPC Documentation](https://github.com/Ahmed-Arafat10/gRPC-Documentation)
+- [Mastering Data Structures & Algorithms (In-Progress)]()
 - [Apache Kafka Documentation (In-Progress)]()
 - [Docker Documentation (In-Progress)]()
 - [Elasticsearch Documentation (In-Progress)]()
