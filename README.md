@@ -180,7 +180,7 @@ I document my competitive programming journey by maintaining repositories coveri
 - [Dynamic Programming Algorithms (In-Progress)]()
 - [Graph Theory Algorithms (In-Progress)]()
 - [Various Algorithms & CP Template (In-Progress)]()
-- [Bitmask Manipulation]()
+- [Bitmask Manipulation (In-Progress)]()
 
 </details>
 
