@@ -167,6 +167,16 @@ real-world examples gathered throughout my software engineering journey.
 - **2x** ECPC Finalist
 - **1,000+** solved algorithmic problems
 
+### 
+
+I document my competitive programming journey by maintaining repositories covering algorithms, data structures, and problem-solving techniques studied through courses and practical implementations.
+
+- [Mastering Data Structures & Algorithms (In-Progress)]()
+- [Competitive Programming Essentials (In-Progress)]()
+- [Dynamic Programming Algorithms (In-Progress)]()
+- [Graph Theory Algorithms (In-Progress)]()
+- [Various Algorithms & CP Template (In-Progress)]()
+
 </details>
 
 ---
