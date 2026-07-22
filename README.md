@@ -171,6 +171,8 @@ real-world examples gathered throughout my software engineering journey.
 
 I document my competitive programming journey by maintaining repositories covering algorithms, data structures, and problem-solving techniques studied through courses and practical implementations.
 
+- [ICPC HU FCAI Level1](https://github.com/Ahmed-Arafat10/ICPC-HU-FCAI-Level1)
+- [ICPC HU FCAI Level2](https://github.com/Ahmed-Arafat10/ICPC-HU-FCAI-Level2)
 - [Mastering Data Structures & Algorithms (In-Progress)]()
 - [Competitive Programming Essentials (In-Progress)]()
 - [Dynamic Programming Algorithms (In-Progress)]()
