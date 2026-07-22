@@ -173,11 +173,14 @@ I document my competitive programming journey by maintaining repositories coveri
 
 - [ICPC HU FCAI Level1](https://github.com/Ahmed-Arafat10/ICPC-HU-FCAI-Level1)
 - [ICPC HU FCAI Level2](https://github.com/Ahmed-Arafat10/ICPC-HU-FCAI-Level2)
+- [Codeforces Problems](https://github.com/Ahmed-Arafat10/Codeforces)
+- [LeetCode Problems](https://github.com/Ahmed-Arafat10/LeetCode)
 - [Mastering Data Structures & Algorithms (In-Progress)]()
 - [Competitive Programming Essentials (In-Progress)]()
 - [Dynamic Programming Algorithms (In-Progress)]()
 - [Graph Theory Algorithms (In-Progress)]()
 - [Various Algorithms & CP Template (In-Progress)]()
+- [Bitmask Manipulation]()
 
 </details>
 
