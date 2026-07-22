@@ -11,7 +11,6 @@
 
 <h4 align="center">Backend Engineer | Scalable Systems & API Architecture | ACPC Finalist</h4>
 
-
 [![Website](https://img.shields.io/website?label=ahmedarafat.vip&style=for-the-badge&url=https://www.ahmedarafat.vip/Portfolio)](https://www.ahmedarafat.vip/Portfolio)
 
 [![Top Committers In Egypt](https://user-badge.committers.top/egypt_private/Ahmed-Arafat10.svg)](https://user-badge.committers.top/egypt_private/Ahmed-Arafat10)
@@ -31,9 +30,10 @@
 <summary>Summary</summary>
 <br/>
 
-Backend Engineer with **4+** years of experience building scalable data-intensive systems and high-performance
-APIs across government and enterprise platforms in Egypt, Saudi Arabia, the USA, and Australia. Delivered **17+
-projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M+ requests**. **ACPC Finalist** with **1,000+ solved** algorithmic problems.
+Backend Engineer with **4+** years of experience building scalable data-intensive systems and high-performance APIs
+across government and enterprise platforms in Egypt, Saudi Arabia, the USA, and Australia. Delivered **17+ projects**,
+**1,000+ API endpoints** serving **50,000+ users** and handling **1M+ requests**. **ACPC Finalist** with **1,000+
+solved** algorithmic problems.
 </details>
 
 ---
@@ -42,10 +42,10 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 <summary>Work Experience</summary>
 <br/>
 
-- Backend Engineer (Laravel/PHP) @**Next Economics & Technology Inc.**
-- Backend Engineer (Laravel/PHP) @**Grand Technology Inc.**
-- Co-Founder & Back-End Developer @**InnovaDigit Solutions**
-- Teaching Assistant @**BIS, Capital University**
+- Backend Engineer (Laravel/PHP) @ **Next Economics & Technology Inc.**
+- Backend Engineer (Laravel/PHP) @ **Grand Technology Inc.**
+- Co-Founder & Back-End Developer @ **InnovaDigit Solutions**
+- Teaching Assistant @ **BIS, Capital University**
 
 </details>
 
@@ -68,33 +68,80 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 <summary>Projects</summary>
 <br/>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=1&platform=GitHub" target="_blank">FilmSA – Saudi Filming Platform</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=1&platform=GitHub" target="_blank">FilmSA –
+  Saudi Filming Platform</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=2&platform=GitHub" target="_blank">DAEM – Strategic Planning & Intelligence System</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=2&platform=GitHub" target="_blank">DAEM –
+  Strategic Planning & Intelligence System</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=4&platform=GitHub" target="_blank">Buy2 – Employee & KPI Management</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=4&platform=GitHub" target="_blank">Buy2 –
+  Employee & KPI Management</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=3&platform=GitHub" target="_blank">Uniters Academy – Multi-level Marketing Platform</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=3&platform=GitHub" target="_blank">Uniters
+  Academy – Multi-level Marketing Platform</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=5&platform=GitHub" target="_blank">GPMS – Graduation Projects Management System</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=5&platform=GitHub" target="_blank">GPMS –
+  Graduation Projects Management System</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=6&platform=GitHub" target="_blank">SRS – Sections Registration System</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=6&platform=GitHub" target="_blank">SRS –
+  Sections Registration System</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=12&platform=GitHub" target="_blank">Laravel All-In-One Toolkit (Open-Source Package)</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=12&platform=GitHub" target="_blank">Laravel
+  All-In-One Toolkit (Open-Source Package)</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=9&platform=GitHub" target="_blank">TSCMS – Tech Schools Control Management System</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=9&platform=GitHub" target="_blank">TSCMS –
+  Tech Schools Control Management System</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=8&platform=GitHub" target="_blank">DT Requirements – Digital Transformation Compliance Platform</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=8&platform=GitHub" target="_blank">DT
+  Requirements – Digital Transformation Compliance Platform</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=7&platform=GitHub" target="_blank">K-Hub – Knowledge Sharing Platform</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=7&platform=GitHub" target="_blank">K-Hub –
+  Knowledge Sharing Platform</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=11&platform=GitHub" target="_blank">PHP MVC Framework</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=11&platform=GitHub" target="_blank">PHP MVC
+  Framework</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=14&platform=GitHub" target="_blank">POS System</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=14&platform=GitHub" target="_blank">POS
+  System</a>
 
-- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=13&platform=GitHub" target="_blank">ReadyStack CRM</a>
+- <a href="https://ahmedarafat.vip/Portfolio/php/ProjectDocs.php?projectId=13&platform=GitHub" target="_blank">
+  ReadyStack CRM</a>
 
 </details>
+
+---
+
+<details open>
+<summary>Technical Documentation Repositories</summary>
+<br/>
+
+I maintain detailed documentation while learning new technologies to reinforce my understanding and create reusable
+references for future projects. These repositories capture practical concepts, best practices, implementation notes, and
+real-world examples gathered throughout my software engineering journey.
+
+### Finished
+
+- [PHP8 Course Documentation]()
+- [PHP Security Tips]()
+- [STLs Library]()
+- [Pointers in C/C++]()
+- [Master Laravel 12 Framework]()
+- [Postman Documentation]()
+- [OpenAPI Specification & Swagger Documentation]()
+- [Jenkins Documentation]()
+- [GitHub Actions CI/CD Documentation]()
+- [GraphQL Documentation]()
+- [gRPC Documentation]()
+
+### In-Progress
+
+- [Apache Kafka Documentation]()
+- [Docker Documentation]()
+- [Elasticsearch Documentation]()
+- [RabbitMQ Documentation]()
+
+</details>
+
 
 ---
 
@@ -102,8 +149,8 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 <summary>Internships</summary>
 <br/>
 
-- Software Engineer Intern @**Orange Digital Center (ODC)**
-- DevOps Engineer Intern @**Sprints**
+- Software Engineer Intern @ **Orange Digital Center (ODC)**
+- DevOps Engineer Intern @ **Sprints**
 
 </details>
 
@@ -116,6 +163,7 @@ projects**, **1,000+ API endpoints** serving **50,000+ users** and handling **1M
 - **1x** ACPC Finalist 2025
 - **2x** ECPC Finalist
 - **1,000+** solved algorithmic problems
+
 </details>
 
 ---
