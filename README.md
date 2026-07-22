@@ -119,8 +119,6 @@ I maintain detailed documentation while learning new technologies to reinforce m
 references for future projects. These repositories capture practical concepts, best practices, implementation notes, and
 real-world examples gathered throughout my software engineering journey.
 
-### Finished
-
 - [PHP8 Course Documentation]()
 - [PHP Security Tips]()
 - [STLs Library]()
@@ -132,13 +130,10 @@ real-world examples gathered throughout my software engineering journey.
 - [GitHub Actions CI/CD Documentation]()
 - [GraphQL Documentation]()
 - [gRPC Documentation]()
-
-### In-Progress
-
-- [Apache Kafka Documentation]()
-- [Docker Documentation]()
-- [Elasticsearch Documentation]()
-- [RabbitMQ Documentation]()
+- [Apache Kafka Documentation (In-Progress)]()
+- [Docker Documentation (In-Progress)]()
+- [Elasticsearch Documentation (In-Progress)]()
+- [RabbitMQ Documentation (In-Progress)]()
 
 </details>
 
