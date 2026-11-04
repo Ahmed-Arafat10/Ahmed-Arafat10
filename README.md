@@ -202,64 +202,78 @@ I document my competitive programming journey by maintaining repositories coveri
 
 <h3>CS Core Skills</h3>
 <p>
-<img title="C++" alt="C++" width="50" src="Pics/cpp.webp" />
-<img title="OOP" alt="OOP" width="50" src="Pics/OOP2.webp" />
-<img title="Java" alt="Java" width="50" src="Pics/java.webp" />
-<img title="Solved 700+ Problem On OJs" alt="Solved 700+ Problem On OJs" width="50" src="Pics/icpc.webp" />
-<img title="DSA" alt="DSA" width="50" src="Pics/DSA2.webp" />
+<img title="C++" alt="C++" width="50" src="Pics/Technologies/CPP.webp" />
+<img title="OOP" alt="OOP" width="50" src="Pics/Technologies/OOP.webp" />
+<img title="Java" alt="Java" width="50" src="Pics/Technologies/java.webp" />
+<img title="Solved 1000+ Problems On OJs" alt="Solved 1000+ Problems On OJs" width="50" src="Pics/icpc.webp" />
+<img title="LeetCode" alt="LeetCode" width="50" src="Pics/Technologies/LeetCode.webp" />
+<img title="DSA" alt="DSA" width="50" src="Pics/Technologies/DSA_2.webp" />
 </p>
 
 <br><br>
 
 <h3>Back-End</h3>
 <p>
-<img title="PHP8" alt="PHP8" width="50" src="Pics/php.webp" />
-<img title="laravel" alt="laravel" width="50" src="Pics/laravel.webp" />
-<img title="MySQL" alt="MySQL" width="60px" src="Pics/mysql.webp" />
-<img title="SQLServer" alt="SQLServer" width="60px" height="50" src="Pics/sqlserver.webp" />
-<img title="Apache" alt="Apache" width="60px" height="60px" src="Pics/apache.webp" />
-<img title="APIs" alt="APIs" width="50" src="Pics/api.webp" />
-<img title="PostMan" alt="PostMan" width="50" src="Pics/postman.webp" />
-<img title="Swagger" alt="Swagger" width="50" src="Pics/swagger.webp" />
+<img title="PHP8" alt="PHP8" width="50" src="Pics/Technologies/PHP.webp" />
+<img title="Laravel" alt="Laravel" width="50" src="Pics/Technologies/Laravel.webp" />
+<img title="Relational Database" alt="Relational Database" width="50" src="Pics/Technologies/Relational_Database.webp" />
+<img title="MySQL" alt="MySQL" width="60px" src="Pics/Technologies/MySQL.webp" />
+<img title="SQLServer" alt="SQLServer" width="60px" height="50" src="Pics/Technologies/SQL_Server.webp" />
+<img title="Apache" alt="Apache" width="60px" height="60px" src="Pics/Technologies/Apache_Web_Server.webp" />
+<img title="Nginx" alt="Nginx" width="50" src="Pics/Technologies/Nginx.svg" />
+<img title="APIs" alt="APIs" width="50" src="Pics/Technologies/APIs.webp" />
+<img title="GraphQL" alt="GraphQL" width="50" src="Pics/Technologies/GraphQL_Icon.svg" />
+<img title="gRPC" alt="gRPC" width="50" src="Pics/Technologies/gRPC.svg" />
+<img title="OpenAPI" alt="OpenAPI" width="50" src="Pics/Technologies/OpenAPI.svg" />
+<img title="PostMan" alt="PostMan" width="50" src="Pics/Technologies/Postman.webp" />
+<img title="Swagger" alt="Swagger" width="50" src="Pics/Technologies/Swagger.webp" />
 </p>
 
 <br><br>
 
 <h3>Front-End</h3>
 <p>
-<img title="HTML5" alt="HTML5" width="50" src="Pics/html5.webp" />
-<img title="CSS3" alt="CSS3" width="50" src="Pics/css3.webp" />
-<img title="JavaScript" alt="JavaScript" width="40px" src="Pics/js.webp" />
-<img title="JQuery" alt="JQuery" width="60px" src="Pics/jquery.webp" />
-<img title="Bootstrap 5" alt="Bootstrap 5" width="50" src="Pics/bootstrap.webp" />
-<img title="AJAX" alt="AJAX" width="50" src="Pics/ajax.webp" />
-<img title="Adobe XD" alt="Adobe XD" width="50" src="Pics/adobexd.webp" />
+<img title="HTML5" alt="HTML5" width="50" src="Pics/Technologies/HTML5.webp" />
+<img title="CSS3" alt="CSS3" width="50" src="Pics/Technologies/CSS3.webp" />
+<img title="JavaScript" alt="JavaScript" width="40px" src="Pics/Technologies/JS.webp" />
+<img title="JQuery" alt="JQuery" width="60px" src="Pics/Technologies/JQuery.webp" />
+<img title="Bootstrap 5" alt="Bootstrap 5" width="50" src="Pics/Technologies/Bootstrap5.svg" />
+<img title="AJAX" alt="AJAX" width="50" src="Pics/Technologies/Ajax.webp" />
+<img title="Adobe XD" alt="Adobe XD" width="50" src="Pics/Technologies/Adobe_XD.webp" />
 </p>
 
 <br><br>
 
-<h3>DevOps</h3>
+<h3>DevOps & Hosting</h3>
 <p>
-<img title="Linux" alt="Linux" width="50" src="Pics/linux.webp" />
-<img title="Git VC" alt="Git VC" width="50" src="Pics/git.webp" />
-<img title="GitHub" alt="GitHub" width="50" src="Pics/github.webp" />
-<img title="AWS" alt="AWS" width="50" src="Pics/AWS.webp" />
-<img title="Docker" alt="Docker" width="50" src="Pics/Docker.webp" />
-<img title="Jenkins" alt="Jenkins" width="50" height="55px" src="Pics/Jenkins.webp" />
+<img title="Linux" alt="Linux" width="50" src="Pics/Technologies/Linux.webp" />
+<img title="Git VC" alt="Git VC" width="50" src="Pics/Technologies/Git.webp" />
+<img title="GitHub" alt="GitHub" width="50" src="Pics/Technologies/Github.webp" />
+<img title="BitBucket" alt="BitBucket" width="50" src="Pics/Technologies/BitBucket.webp" />
+<img title="GitHub Actions" alt="GitHub Actions" width="50" src="Pics/Technologies/GitHub_Actions.svg" />
+<img title="AWS" alt="AWS" width="50" src="Pics/Technologies/AWS.webp" />
+<img title="Docker" alt="Docker" width="50" src="Pics/Technologies/Docker.webp" />
+<img title="Jenkins" alt="Jenkins" width="50" height="55px" src="Pics/Technologies/Jenkins.webp" />
+<img title="GoDaddy" alt="GoDaddy" width="50" src="Pics/Technologies/GoDaddy.webp" />
+<img title="Hostinger" alt="Hostinger" width="50" src="Pics/Technologies/Hostinger.webp" />
 </p>
 
 <br><br>
 
 <h3>Tools</h3>
 <p>
-<img title="CLion" alt="CLion" width="50" src="Pics/tools/clion.webp" />
-<img title="PHPStorm" alt="PHPStorm" width="50" src="Pics/tools/phpstorm.webp" />
-<img title="Intellij" alt="Intellij" width="50" src="Pics/tools/intellij.webp" />
-<img title="VS Code" alt="VS Code" width="50" src="Pics/tools/vscode.webp" />
-<img title="CodeBlocks" alt="CodeBlocks" width="50" src="Pics/tools/codeblocks.webp" />
-<img title="Microsoft Teams" alt="Microsoft Teams" width="50" src="Pics/tools/teams.webp" />
-<img title="Discord" alt="Discord" width="50" src="Pics/tools/discord.webp" />
-<img title="Slack" alt="Slack" width="50" src="Pics/tools/slack.webp" />
+<img title="CLion" alt="CLion" width="50" src="Pics/Tools/IDE/Clion.webp" />
+<img title="PHPStorm" alt="PHPStorm" width="50" src="Pics/Tools/IDE/PhpStorm.webp" />
+<img title="Intellij" alt="Intellij" width="50" src="Pics/Tools/IDE/Intellij.webp" />
+<img title="VS Code" alt="VS Code" width="50" src="Pics/Tools/IDE/VS_Code.webp" />
+<img title="CodeBlocks" alt="CodeBlocks" width="50" src="Pics/Tools/IDE/Codeblocks.webp" />
+<img title="MySQL Workbench" alt="MySQL Workbench" width="50" src="Pics/Tools/Other/MySQL_WorkBench.webp" />
+<img title="Navicat" alt="Navicat" width="50" src="Pics/Tools/Other/Navicat.webp" />
+<img title="XAMPP" alt="XAMPP" width="50" src="Pics/Tools/Other/XAMPP.webp" />
+<img title="Jira" alt="Jira" width="50" src="Pics/Technologies/Jira.webp" />
+<img title="Microsoft Teams" alt="Microsoft Teams" width="50" src="Pics/Tools/Other/MS_Teams.webp" />
+<img title="Discord" alt="Discord" width="50" src="Pics/Tools/Other/Discord.webp" />
+<img title="Slack" alt="Slack" width="50" src="Pics/Tools/Other/Slack.webp" />
 </p>
 
 <br><br>
