@@ -192,7 +192,7 @@ I document my competitive programming journey by maintaining repositories coveri
 <p>
   <a href="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="https://www.facebook.com/ahmedarafat01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/ahmedarafat__/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/arafatheackerman/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
   <a href="https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
 </p>
 
