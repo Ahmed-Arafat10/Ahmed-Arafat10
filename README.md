@@ -1,9 +1,5 @@
-<!-- Profile Header GIF -->
-<p align="center">
-  <img width="100" src="Pics/Programming.gif" alt="ahmed-arafat10" />
-</p>
-
 <h1 align="center">
+  <img width="100%" src="Pics/profile.png" alt="ahmed-arafat10" />
   👋 Hello, I'm <i style="color:#36BCF7">Ahmed Mohamed Yousry</i>
   <br> 
   aka <i>Ahmed Arafat</i>
